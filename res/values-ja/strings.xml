@@ -1282,7 +1282,7 @@
     <string name="Allow_Recombine">Allow Recombine</string>
     <string name="Defenders">Defenders</string>
     <string name="Attackers">Attackers</string>
-    <string name="MEGA_SPLIT">MEGAスプリット64x</string>
+    <string name="MEGA_SPLIT">MEGA スプリット64x</string>
     <string name="Missing_Permissions">Missing Permissions</string>
     <string name="DELETE_ACCOUNT">アカウントを削除する</string>
     <string name="delete_prompt">アカウントを削除してもよろしいですか？これは取り消せません！</string>

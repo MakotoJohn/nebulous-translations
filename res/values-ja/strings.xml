@@ -919,7 +919,7 @@
     <string name="x2_Clan_XP_7_Days">クラン経験値2倍7日</string>
     <string name="RECEIVED">受け取りました</string>
     <string name="SENT">送られました</string>
-    <string name="Enable_Invites">招待をオン</string>
+    <string name="Enable_Invites">招待を有効</string>
     <string name="Game_Invitation">ゲームの招待</string>
     <string name="__has_invited_you_to_join_their_game_">%s あなたが参加できるように招待が送られました</string>
     <string name="Invitation_declined_">招待が拒否されました！</string>

@@ -1289,9 +1289,9 @@
 
 
     <string name="Type">これを入力してください：</string>
-    <string name="Complete_campaign_mission_">キャンペーンミッションを完了する</string>
+    <string name="Complete_campaign_mission_">次のキャンペーンミッションを完了:</string>
     <string name="Specify_Reason_">理由を詳しく述べてください：</string>
-    <string name="FREE_FOR_ALL">誰でも自由</string>
+    <string name="FREE_FOR_ALL">個人戦モード</string>
     <string name="SPECIAL">特別</string>
     <string name="FREE">無料</string>
     <string name="x5_Clan_XP_1_Day">クラン経験値5倍1日間</string>

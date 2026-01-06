@@ -1195,7 +1195,7 @@
     <string name="Opponent_Rating_Limit_">Opponent Rating Limit:</string>
     <string name="TOGGLE_FAVORITE">お気に入りを切り替える</string>
     <string name="Favorited">お気に入りに追加</string>
-    <string name="Unfavorited">お気に入りに除去</string>
+    <string name="Unfavorited">お気に入りから削除</string>
     <string name="Background_Scale_">Background Scale:</string>
     <string name="Background_Lightness_">Background Lightness:</string>
     <string name="Background_Image_">Background Image:</string>

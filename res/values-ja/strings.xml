@@ -913,7 +913,7 @@
     <string name="x2_Clan_XP_1_Day">クラン経験値2倍1日間</string>
     <string name="Pets">ペット</string>
     <string name="Pet">ペット</string>
-    <string name="You_can_purchase_this_pet_for">このペットをこの価格で購入できます:</string>
+    <string name="You_can_purchase_this_pet_for">このペットは次の価格で購入できます:</string>
     <string name="gift_to_friend">フレンドへの贈り物</string>
     <string name="gift_purchase_warning">この購入を友人に贈ることを選択したため、この購入は受けられません。</string>
     <string name="x2_Clan_XP_7_Days">クラン経験値2倍7日</string>
@@ -1045,7 +1045,7 @@
     <string name="Buy">購入</string>
     <string name="Sell">販売</string>
     <string name="community_skin_requirement">コミュニティを使うには『カスタムスキンを有効にする』を購入する必要があります。</string>
-    <string name="You_can_purchase_this_community_skin_for_">このコミュニティスキンはこの価格で購入できます:</string>
+    <string name="You_can_purchase_this_community_skin_for_">このコミュニティスキンは次の価格で購入できます:</string>
     <string name="community_skin_information_for_buyer" translatable="true" tools:ignore="Untranslatable">コミュニティスキンは他のプレイヤーから送られます。コミュニティスキンは、カスタムスキンと同様に機能し、標準スキンと連動させることができます。</string>
     <string name="VIEW_UPLOADER">アップローダーを表示</string>
     <string name="POPULAR">人気</string>

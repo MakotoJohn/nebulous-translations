@@ -1266,9 +1266,9 @@
 !hidden
 !slowchat
 !pausechat
-!mute｛ID｝
-!admin｛ID｝
-!allow｛ID｝
+!mute {ID}
+!admin {ID}
+!allow {ID}
 !allow reset
 !team [1-4] {ID} (チーム戦モードにのみ)
 !winner

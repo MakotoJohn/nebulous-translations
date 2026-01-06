@@ -20,8 +20,8 @@
     <string name="PLAY">"プレイする"</string>
     <string name="OPTIONS">"オプション"</string>
 
-    <string name="Avatar_">"スキン："</string>
-    <string name="Name_">"名前 : "</string>
+    <string name="Avatar_">"スキン:"</string>
+    <string name="Name_">"名前:"</string>
 
     <string name="Loading___">"読み込み中…"</string>
     <string name="Connecting___">"アクセス中…"</string>
@@ -38,7 +38,7 @@
     <string name="_Alias_">"エイリアス"</string>
     <string name="_Score_">"スコア"</string>
     <string name="Score__">"スコア: "</string>
-    <string name="Recombine_">"再結合まで:"</string>
+    <string name="Recombine_">"再結合まで: "</string>
     <string name="WINNER_">"勝者:"</string>
     <string name="IDLE">"待機中"</string>
     <string name="Name_Invalid_">"使用不可能な名前"</string>

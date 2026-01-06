@@ -918,7 +918,7 @@
     <string name="gift_purchase_warning">この購入を友人に贈ることを選択したため、この購入は受けられません。</string>
     <string name="x2_Clan_XP_7_Days">クラン経験値2倍7日</string>
     <string name="RECEIVED">受け取りました</string>
-    <string name="SENT">送られました</string>
+    <string name="SENT">送りました</string>
     <string name="Enable_Invites">招待を有効</string>
     <string name="Game_Invitation">ゲームの招待</string>
     <string name="__has_invited_you_to_join_their_game_">%s あなたが参加できるように招待が送られました</string>
@@ -931,8 +931,8 @@
     <string name="Enable_Custom_Blob_Color">ブロブカスタムカラーを有効にする</string>
     <string name="Choose_Menu">メニューを選択</string>
     <string name="SPECTATE">観戦</string>
-    <string name="INVITE">招待する</string>
-    <string name="error_1">リーダーやダイヤモンドだけがクランメールを送ることができます。</string>
+    <string name="INVITE">招待</string>
+    <string name="error_1">リーダーまたはダイヤモンドだけがクランメールを送ることができます。</string>
     <string name="Hat">帽子</string>
     <string name="Hats">帽子</string>
     <string name="Pet_Uploads">ペットアップロード</string>
@@ -958,7 +958,7 @@
     <string name="Open_Present">プレゼントを開く</string>
     <string name="OPEN">開く</string>
     <string name="Halo">オーラ</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"このイジェクトスキンを使用するには、レベル %1$s 以上で、達成率が %2$s でなければなりません。"</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"このオーラを使うには、レベル %1$s 以上で、達成率が %2$s でなければなりません。"</string>
     <string name="Halos">オーラ</string>
     <string name="CAMPAIGN">キャンペーン</string>
     <string name="Mission">ミッション</string>
@@ -1270,7 +1270,7 @@
 !admin {ID}
 !allow {ID}
 !allow reset
-!team [1-4] {ID} (チーム戦モードにのみ)
+!team [1-4] {ID} (チーム戦モードだけ)
 !winner
 !stats
 !info"
@@ -1309,11 +1309,11 @@
     <string name="CLAN_BACKGROUND_COLOR">CLAN BACKGROUND COLOR</string>
     <string name="activate">Activate</string>
     <string name="clan_id">クランID</string>
-    <string name="language_change_warning">言語を変更するには、アプリケーションを再起動する必要があります。</string>
-    <string name="xmas_gift_boost_message">You\'ve received a gift of 3x plasma boost for 1 day!</string>
+    <string name="language_change_warning">言語を変更するには、アプリを再起動する必要があります。</string>
+    <string name="xmas_gift_boost_message">あなたは1日間3xプラズマブーストのギフトを受け取りました！</string>
     <string name="no_response">No response from server. Please check the internet connection.</string>
     <string name="RAMADAN">ラマダン</string>
-    <string name="SUDDEN_ATTACK">サドンアタック</string>
+    <string name="SUDDEN_ATTACK">突然のアタック</string>
     <string name="_2x_skin_resolution">カスタムスキンの画質2倍</string>
     <string name="pm">PM</string>
     <string name="You_are_already_friends_">あなたはすでにフレンドです.</string>

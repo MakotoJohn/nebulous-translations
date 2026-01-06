@@ -673,7 +673,7 @@
     <string name="nebulas_">"星雲"</string>
     <string name="Incompatible_versions_">"このバージョンでは利用できません"</string>
     <string name="Update_Available_">"利用可能なバージョンです"</string>
-    <string name="VIEW_INVITES">"招待状を表示"</string>
+    <string name="VIEW_INVITES">"招待を表示"</string>
     <string name="CLAN_INVITES">"クラン招待"</string>
     <string name="Cancel_Invitation">"招待を取り消す"</string>
     <string name="DOWNLOAD">"ダウンロード"</string>
@@ -1120,7 +1120,7 @@
     <string name="Joined">参加しました</string>
     <string name="Requests">リクエスト</string>
     <string name="Invites">招待</string>
-    <string name="Show_Spectator_Count">プレイ中の観戦者数を表示</string>
+    <string name="Show_Spectator_Count">ゲーム中の観戦者数を表示</string>
     <string name="TRY_IT_">TRY IT!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
     <string name="GET_PACK">GET PACK</string>

@@ -13,11 +13,11 @@
     <string name="DEFAULTS">"デフォルト"</string>
     <string name="WEEKLY">"週間"</string>
     <string name="DAILY">"一日間"</string>
-    <string name="Server_">"サーバー : "</string>
-    <string name="Game_Mode_">"ゲームモード : "</string>
-    <string name="Show_Names">"名前を表示する"</string>
-    <string name="Show_Avatars">"スキンを表示する"</string>
-    <string name="PLAY">"プレイする"</string>
+    <string name="Server_">"サーバー:"</string>
+    <string name="Game_Mode_">"ゲームモード:"</string>
+    <string name="Show_Names">"名前を表示"</string>
+    <string name="Show_Avatars">"スキンを表示"</string>
+    <string name="PLAY">"プレイ"</string>
     <string name="OPTIONS">"オプション"</string>
 
     <string name="Avatar_">"スキン:"</string>
@@ -51,7 +51,7 @@
     <string name="JOIN">"参加"</string>
 
 
-    <string name="Lobby_Name">"ロビーの名前"</string>
+    <string name="Lobby_Name">"ロビー名"</string>
     <string name="Not_found_">"見つかりません。"</string>
 
     <string name="Hidden">"非表示"</string>
@@ -66,7 +66,7 @@
     <string name="South_America">"南アメリカ"</string>
 
 
-    <string name="SINGLE_PLAYER">"オフライン"</string>
+    <string name="SINGLE_PLAYER">"シングルプレイ"</string>
     <string name="Background_">"背景:"</string>
     <string name="Difficulty_">"難易度:"</string>
     <string name="Delay_Disconnect">"接続切れを遅延します"</string>
@@ -75,15 +75,15 @@
     <string name="Min_Players">"最少プレイヤー数"</string>
 
     <string name="OK">"はい"</string>
-    <string name="CANCEL">"取り消し"</string>
-    <string name="Chat_Name">"名前:"</string>
+    <string name="CANCEL">"キャンセル"</string>
+    <string name="Chat_Name">"チャット名:"</string>
     <string name="Max_People">"最大人数"</string>
     <string name="START">"開始"</string>
-    <string name="CREATE">"部屋を作る"</string>
+    <string name="CREATE">"作成"</string>
     <string name="CUSTOM_GAMES">"カスタムゲーム"</string>
     <string name="CHAT">"チャット"</string>
     <string name="CUSTOM_SETUP">"カスタムゲーム設定"</string>
-    <string name="CHAT_SETUP">"部屋設定"</string>
+    <string name="CHAT_SETUP">"チャット設定"</string>
 
 
     <string name="ACCOUNT">"アカウント"</string>
@@ -505,8 +505,8 @@
     <string name="Win_100_Clan_Wars">"100回クラン戦争で勝つ"</string>
     <string name="Clan_Commander">"クラン司令官"</string>
     <string name="Clan_General">"クラン提督"</string>
-    <string name="Clan_Wars_Won_">"勝ったクラン戦争の数 : "</string>
-    <string name="Arenas_Won_">"勝ったアリーナゲームの数 : "</string>
+    <string name="Clan_Wars_Won_">"勝ったクラン戦争数:"</string>
+    <string name="Arenas_Won_">"勝ったアリーナゲーム数:"</string>
     <string name="Arena_Mode">"アリーナモード"</string>
     <string name="Connection_Lost">"切断されました"</string>
 
@@ -774,10 +774,10 @@
     <string name="Message">"メッセージ"</string>
     <string name="Subject">"テーマ"</string>
     <string name="SEND">"送信"</string>
-    <string name="To">"に"</string>
+    <string name="To">"に:"</string>
     <string name="RESET">"リセット"</string>
     <string name="Message_Sent_">"メッセージ送信！"</string>
-    <string name="From">"から"</string>
+    <string name="From">"から:"</string>
     <string name="Sent">"送信されました"</string>
     <string name="REPLY">"応答"</string>
     <string name="Delete_Message">"メッセージを削除"</string>
@@ -825,14 +825,14 @@
     <string name="Competing">"競合中"</string>
     <string name="Finals">"決勝"</string>
     <string name="Unregister">"登録解除"</string>
-    <string name="Enter_My_Match">"マイマッチに入力してください"</string>
+    <string name="Enter_My_Match">"マイマッチに参加"</string>
     <string name="Starts_In">"で開始"</string>
     <string name="Seconds">"秒"</string>
     <string name="Tournaments_Temporarily_Disabled">"一時的に無効なトーナメント"</string>
     <string name="CLAN_NAME_COLOR">"クラン名カラー"</string>
     <string name="Tuber">"動画投稿者"</string>
     <string name="youtube_prompt">"YouTubeチャンネルを閲覧しに行きますか？"</string>
-    <string name="Tournament_Matches_Won_">"トーナメントマッチを勝った回数:"</string>
+    <string name="Tournament_Matches_Won_">"勝ったトーナメント数:"</string>
     <string name="PAINT">"ペイント"</string>
     <string name="BLOCKED_ACCOUNTS">"ブロックしたアカウント"</string>
     <string name="UNBLOCK">"ブロック解除"</string>
@@ -880,7 +880,7 @@
     <string name="Bundle_of_Spins">ルーレット増量（10）</string>
     <string name="Plethora_of_Spins">大量のルーレット（50）</string>
     <string name="SIGN_OUT_ALL_DEVICES">全端末からアカウントをログアウトさせる</string>
-    <string name="Tournament_Forming">トーナメントフォーミング</string>
+    <string name="Tournament_Forming">トーナメント作成中</string>
     <string name="TeamTourneyDescription">開始するに少なくとも%d人の参加者が必要です。</string>
     <string name="Free_Agent">フリーエージェント</string>
     <string name="This_player_selected_a_different_teammate_">この選手は別のチームメートを選びました。</string>
@@ -888,7 +888,7 @@
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">マルチプレーヤーを再生すると、アプリのコンテンツレーティングが変更されることがあります。</string>
     <string name="UI_Opacity_">レベル等の透明度</string>
     <string name="LOAD">負荷</string>
-    <string name="REMOVE">除去</string>
+    <string name="REMOVE">削除</string>
     <string name="BAN">禁止</string>
     <string name="MODERATORS">モデレーター</string>
     <string name="ALL_CLAN">クランに\n全ての人</string>
@@ -1109,7 +1109,7 @@
     <string name="Failed">失敗しました</string>
     <string name="Failed_to_join">参加に失敗しました</string>
     <string name="Full">Full</string>
-    <string name="Tricks_Performed_">トリックを実行した回数：</string>
+    <string name="Tricks_Performed_">実行したトリック数:</string>
     <string name="Not_enough_plasma_">プラズマ不足！</string>
     <string name="GET_PLASMA">プラズマを購入</string>
     <string name="ASTEROIDS">アステロイド</string>
@@ -1120,7 +1120,7 @@
     <string name="Joined">参加しました</string>
     <string name="Requests">リクエスト</string>
     <string name="Invites">招待</string>
-    <string name="Show_Spectator_Count">ゲーム中の観戦者数を表示</string>
+    <string name="Show_Spectator_Count">ゲーム内観戦者数を表示</string>
     <string name="TRY_IT_">TRY IT!</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
     <string name="GET_PACK">GET PACK</string>
@@ -1164,15 +1164,15 @@
     <string name="Video_failed_to_load_">動画の読み込みに失敗しました！</string>
     <string name="Video_Ready_">動画ができています！</string>
     <string name="GIVE_PLASMA">プラズマを送る</string>
-    <string name="Specify_amount_">金額を指定してください：</string>
-    <string name="Specify_amount_again_to_confirm_">Specify amount again to confirm:</string>
-    <string name="Amounts_did_not_match_">Amounts did not match!</string>
+    <string name="Specify_amount_">値を入力してください:</string>
+    <string name="Specify_amount_again_to_confirm_">値を再入力して確認してください:</string>
+    <string name="Amounts_did_not_match_">値が一致しません！</string>
     <string name="RECEIVE_PLASMA">プラズマを受け取る</string>
     <string name="MULTIBLOB">マルチブロブ</string>
     <string name="Play_Nebulous_For_1_Year_">1年間ネビュラスをプレイしました！</string>
     <string name="Play_Nebulous_For_X_Years_">%d年間ネビュラスをプレイしました！</string>
-    <string name="Starting___">Starting…</string>
-    <string name="Tournament_Starting">Tournament Starting</string>
+    <string name="Starting___">開始中…</string>
+    <string name="Tournament_Starting">トーナメント開始中</string>
     <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
     <string name="Mode_3D">3Dモード</string>
     <string name="Names_Below_Blobs">ブロブの下にプレイヤー名</string>
@@ -1193,9 +1193,9 @@
     <string name="Search_Filter">Search Filter</string>
     <string name="Received_">を受け取った回数:</string>
     <string name="Opponent_Rating_Limit_">Opponent Rating Limit:</string>
-    <string name="TOGGLE_FAVORITE">お気に入りを切り替える</string>
-    <string name="Favorited">お気に入りに追加</string>
-    <string name="Unfavorited">お気に入りから削除</string>
+    <string name="TOGGLE_FAVORITE">お気に入りスキンを切り替える</string>
+    <string name="Favorited">お気に入りスキンに追加</string>
+    <string name="Unfavorited">お気に入りスキンから削除</string>
     <string name="Background_Scale_">背景スケール:</string>
     <string name="Background_Lightness_">背景の明るさ:</string>
     <string name="Background_Image_">背景画像:</string>

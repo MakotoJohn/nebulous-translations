@@ -776,7 +776,7 @@
     <string name="SEND">"送信"</string>
     <string name="To">"に:"</string>
     <string name="RESET">"リセット"</string>
-    <string name="Message_Sent_">"メッセージ送信！"</string>
+    <string name="Message_Sent_">"メッセージ送信済み！"</string>
     <string name="From">"から:"</string>
     <string name="Sent">"送信されました"</string>
     <string name="REPLY">"応答"</string>
@@ -969,7 +969,7 @@
     <string name="Next_Mission">次のミッション</string>
     <string name="Objective">目的</string>
     <string name="GAME">ゲーム</string>
-    <string name="Saved_">保存しました！</string>
+    <string name="Saved_">保存済み！</string>
     <string name="Name_Opacity_">名前の不透明度:</string>
     <string name="SET_PROFILE_PIC">プロフィール画像を設定</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">フレンドリクエストを全て受け入れる！</string>
@@ -989,7 +989,7 @@
     <string name="ROYALE_DUO">ロイヤルデュオ</string>
     <string name="Choose_Partner">パートナーを選ぶ</string>
     <string name="REMOVE_FRIEND">フレンドを削除</string>
-    <string name="Creator">クリエイター</string>
+    <string name="Creator">オーナー:</string>
     <string name="PROFILE_COLOR">プロフィールカラー</string>
     <string name="Enable_Colors">カラーを有効にする</string>
     <string name="Particles">パーティクル</string>
@@ -1094,21 +1094,28 @@
     <string name="Japan">日本</string>
     <string name="South_Korea">韓国</string>
     <string name="Asia">アジア</string>
-    <string name="SET_PRIVACY">プライバシーを設定する</string>
+    <string name="SET_PRIVACY">プライバシーを設定</string>
     <string name="ANIMATION">アニメーション</string>
     <string name="Color_Cycle">カラーサイクル</string>
-    <string name="Fast">高速</string>
-    <string name="Slow">低速</string>
+    <string name="Fast">スロー</string>
+    <string name="Slow">ファスト</string>
     <string name="Rainbow">レインボー</string>
-    <string name="Horizontal">水平</string>
-    <string name="Vertical">垂直</string>
+    <string name="Horizontal">ホリゾンタル</string>
+    <string name="Vertical">バーティカル</string>
     <string name="GROUP">グループ</string>
-    <string name="LEAVE">退出する</string>
+    <string name="LEAVE">退出</string>
     <string name="Group">グループ</string>
     <string name="Not_in_a_group_">グループにいません。</string>
-    <string name="Failed">失敗しました</string>
-    <string name="Failed_to_join">参加に失敗しました</string>
+    <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">このグループIDを友だちに送ることができます:</string>
+    <string name="Specify_Group_ID" translatable="true" tools:ignore="Untranslatable">グループIDを入力</string>
+    <string name="Failed">失敗</string>
+    <string name="Joined_group_" translatable="true" tools:ignore="Untranslatable">グループに参加済み</string/>
+    <string name="People" translatable="true" tools:ignore="Untranslatable">人々</string>
+    <string name="Failed_to_join">参加に失敗</string>
     <string name="Full">Full</string>
+    <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">一人が参加しました！</string>
+    <string name="person_left" translatable="true" tools:ignore="Untranslatable">一人が退出しました！</string>
+    <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">グループに退出済み</string>
     <string name="Tricks_Performed_">実行したトリック数:</string>
     <string name="Not_enough_plasma_">プラズマ不足！</string>
     <string name="GET_PLASMA">プラズマを購入</string>
@@ -1117,7 +1124,7 @@
     <string name="Reason">理由</string>
     <string name="PUBLIC">公開</string>
     <string name="PRIVATE">非公開</string>
-    <string name="Joined">参加しました</string>
+    <string name="Joined">参加済み</string>
     <string name="Requests">リクエスト</string>
     <string name="Invites">招待</string>
     <string name="Show_Spectator_Count">ゲーム内観戦者数を表示</string>
@@ -1155,13 +1162,13 @@
     <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
     <string name="voice_chat_prompt">Content rating of the app may change with voice chat enabled. For best audio use a headset.</string>
     <string name="Only_leader_can_answer_requests_">リーダーのみが要請に応答できます。</string>
-    <string name="Sent_request_not_invited_">要請送信済み（未招待）。</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">コミュニティからこのスキンを削除する！</string>
+    <string name="Sent_request_not_invited_">リクエスト送信済み（未招待）。</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">コミュニティからこのスキンを削除！</string>
     <string name="This_cannot_be_undone_">これは取り消せません！</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
     <string name="WATCH_VIDEO_">動画を見る！</string>
     <string name="PERMANENT_BOOSTS">永久にブースト</string>
-    <string name="Video_failed_to_load_">動画の読み込みに失敗しました！</string>
+    <string name="Video_failed_to_load_">動画の読み込みに失敗！</string>
     <string name="Video_Ready_">動画ができています！</string>
     <string name="GIVE_PLASMA">プラズマを送る</string>
     <string name="Specify_amount_">値を入力してください:</string>

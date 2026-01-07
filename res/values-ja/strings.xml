@@ -1230,7 +1230,7 @@
     <string name="Responsible_Pet_Owner">ペットの担当オーナー</string>
     <string name="Animal_Tamer">アニマルタマー</string>
     <string name="Crocodile_Hunter">ワニハンター</string>
-    <string name="Get_A_Pet_To_Level_X_">一匹のペットをレベル%dまで上ける</string>
+    <string name="Get_A_Pet_To_Level_X_">一匹のペットをレベル%dまで上げる</string>
     <string name="plasma_boost_info">"You gain three times plasma from all IN-GAME sources while the boost is active! This includes arena  and tournament winnings! Does NOT work on plasma purchases, spins, or special rewards."</string>
     <string name="Plasma_Boost_7_Days_">プラズマブースト7日間！！</string>
     <string name="Plasma_Boost_1_Day_">プラズマブースト1日間！</string>
@@ -1277,7 +1277,7 @@
 </string>
     <string name="ID_Sort">ID Sort</string>
     <string name="Master_Tamer">マスタータマー</string>
-    <string name="Get_ALL_Pets_To_Level_100_">全てのペットをレベル100まで上ける</string>
+    <string name="Get_ALL_Pets_To_Level_100_">全てのペットをレベル100まで上げる</string>
     <string name="TAMER">タマー</string>
     <string name="Allow_Recombine">Allow Recombine</string>
     <string name="Defenders">Defenders</string>

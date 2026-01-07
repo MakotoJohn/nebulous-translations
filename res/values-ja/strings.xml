@@ -60,10 +60,10 @@
     <string name="SERVER">"サーバー"</string>
     <string name="Joining_game_in_">"ゲームに参加"</string>
     <string name="Game_Full">"満員"</string>
-    <string name="US_East">"中米"</string>
-    <string name="US_West">"北米"</string>
+    <string name="US_East">"中央アメリカ"</string>
+    <string name="US_West">"北アメリカ"</string>
     <string name="Europe">"ヨーロッパ"</string>
-    <string name="South_America">"南米"</string>
+    <string name="South_America">"南アメリカ"</string>
 
 
     <string name="SINGLE_PLAYER">"シングルプレイ"</string>
@@ -1372,4 +1372,3 @@
 
 
 </resources>
-

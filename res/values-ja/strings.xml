@@ -230,9 +230,9 @@
     <string name="Absorb_5_doges_without_restarting">"1回のプレイで5人の犬スキンを食う"</string>
 
     <string name="Friends">"フレンド"</string>
-    <string name="Dots_Eaten_">"食ったドット:"</string>
-    <string name="Blobs_Eaten_">"食ったブロブ:"</string>
-    <string name="Blobs_Lost_">"失ったブロブ:"</string>
+    <string name="Dots_Eaten_">"食べたドット数:"</string>
+    <string name="Blobs_Eaten_">"食べたブロブ数:"</string>
+    <string name="Blobs_Lost_">"失ったブロブ数:"</string>
     <string name="Mass_Gained_">"総獲得量:"</string>
     <string name="Mass_Ejected_">"総粒出し量:"</string>
     <string name="Times_Ejected_">"粒を出した回数:"</string>
@@ -1186,9 +1186,9 @@
     <string name="Kicked_From_Game_">あなたはルームから追い出されました！</string>
     <string name="Conquest">Conquest</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Finish the last mission in the campaign.</string>
-    <string name="Collected_">を収集した回数:</string>
+    <string name="Collected_">を収集した数:</string>
     <string name="Collisions_">への衝突数:</string>
-    <string name="Absorbed_">を吸収した回数:</string>
+    <string name="Absorbed_">を吸収した数:</string>
     <string name="team_warning">Teaming up with a player that is not on your team will result in a ban!</string>
     <string name="Search_Filter">Search Filter</string>
     <string name="Received_">を受け取った回数:</string>

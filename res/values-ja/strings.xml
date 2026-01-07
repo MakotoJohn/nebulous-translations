@@ -1187,7 +1187,7 @@
     <string name="Conquest">Conquest</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Finish the last mission in the campaign.</string>
     <string name="Collected_">を収集した回数:</string>
-    <string name="Collisions_">への衝突回数:</string>
+    <string name="Collisions_">への衝突数:</string>
     <string name="Absorbed_">を吸収した回数:</string>
     <string name="team_warning">Teaming up with a player that is not on your team will result in a ban!</string>
     <string name="Search_Filter">Search Filter</string>

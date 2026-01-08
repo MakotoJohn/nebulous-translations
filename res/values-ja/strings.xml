@@ -113,8 +113,8 @@
     <string name="FRIENDS">"フレンド"</string>
     <string name="Warning">"警告"</string>
     <string name="SIGNING_IN">"ログイン中…"</string>
-    <string name="New_Friend_Request">"新しいフレンドリクエスト受け取り！"</string>
-    <string name="REQUEST_FRIEND">"フレンドをリクエスト"</string>
+    <string name="New_Friend_Request">"新着のフレンドリクエストが届きました！"</string>
+    <string name="REQUEST_FRIEND">"フレンドリクエスト"</string>
     <string name="Private">"非公開"</string>
     <string name="Public">"公開"</string>
     <string name="Bot">"AI"</string>

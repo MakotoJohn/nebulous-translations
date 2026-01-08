@@ -1168,8 +1168,8 @@
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
     <string name="WATCH_VIDEO_">動画を見る！</string>
     <string name="PERMANENT_BOOSTS">永久にブースト</string>
-    <string name="Video_failed_to_load_">動画の読み込みに失敗！</string>
-    <string name="Video_Ready_">動画ができています！</string>
+    <string name="Video_failed_to_load_">動画読み込みに失敗！</string>
+    <string name="Video_Ready_">動画の準備完了！</string>
     <string name="GIVE_PLASMA">プラズマを送る</string>
     <string name="Specify_amount_">値を入力してください:</string>
     <string name="Specify_amount_again_to_confirm_">値を再入力して確認してください:</string>

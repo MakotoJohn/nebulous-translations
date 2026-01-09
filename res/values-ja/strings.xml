@@ -703,7 +703,7 @@
     <string name="join_clan_war">"クラン戦争に参加"</string>
     <string name="none">"なし"</string>
     <string name="INVALID_TOKEN">"証明できません！"</string>
-    <string name="banned_until">"まで禁止"</string>
+    <string name="banned_until">"日付まで禁止されました"</string>
     <string name="Note_Collector">"ノートコレクター"</string>
     <string name="Note_Hoarder">"ノートをため込んでいる人に注意してください。"</string>
     <string name="Note_Mogul">"ノートモーグル"</string>
@@ -884,7 +884,7 @@
     <string name="TeamTourneyDescription">開始するに少なくとも%d人の参加者が必要です。</string>
     <string name="Free_Agent">フリーエージェント</string>
     <string name="This_player_selected_a_different_teammate_">この選手は別のチームメートを選びました。</string>
-    <string name="muted_until">までミュート</string>
+    <string name="muted_until">日付までミュートされました:</string>
     <string name="Content_rating_of_the_app_may_change_when_playing_multiplayer">マルチプレーヤーを再生すると、アプリのコンテンツレーティングが変更されることがあります。</string>
     <string name="UI_Opacity_">レベル等の透明度</string>
     <string name="LOAD">負荷</string>
@@ -899,7 +899,7 @@
     <string name="EXPERIMENTAL">実験的</string>
     <string name="members">メンバー</string>
     <string name="Delete_ALL_Messages_">すべてのメッセージを削除！</string>
-    <string name="SAVE_PROFILE">プロフィール保存</string>
+    <string name="SAVE_PROFILE">プロフィールを保存</string>
     <string name="Move">移動</string>
     <string name="New_Position">新しいポジション</string>
     <string name="ALLIANCES">連携</string>
@@ -949,7 +949,7 @@
     <string name="DEMOTE_MEMBER">メンバーを降格</string>
     <string name="HAPPY_BIRTHDAY_">ネビュラス誕生日</string>
     <string name="Years">年</string>
-    <string name="Friend_Added_">フレンドが追加されました！</string>
+    <string name="Friend_Added_">フレンド追加済み！</string>
     <string name="_in_a_16x_Split_Game">16x スプリットで</string>
     <string name="Rules">ルール</string>
     <string name="Blob_Chat_Bubbles">ブロブチャットバブル</string>
@@ -962,7 +962,7 @@
     <string name="Halos">オーラ</string>
     <string name="CAMPAIGN">キャンペーン</string>
     <string name="Mission">ミッション</string>
-    <string name="Kill_All_Bots">すべてのボットを食べる</string>
+    <string name="Kill_All_Bots">ボットを全て食べる</string>
     <string name="Survive">生き残る</string>
     <string name="Mission_d_Complete">ミッション %d 完了！</string>
     <string name="Mission_d_Failed">ミッション %d 失敗！</string>
@@ -989,7 +989,7 @@
     <string name="ROYALE_DUO">ロイヤルデュオ</string>
     <string name="Choose_Partner">パートナーを選ぶ</string>
     <string name="REMOVE_FRIEND">フレンドを削除</string>
-    <string name="Creator">オーナー:</string>
+    <string name="Creator">作成者:</string>
     <string name="PROFILE_COLOR">プロフィールカラー</string>
     <string name="Enable_Colors">カラーを有効にする</string>
     <string name="Particles">パーティクル</string>
@@ -1011,7 +1011,7 @@
     <string name="Challenges_Won_">勝ったチャレンジ数:</string>
     <string name="trophy_info">トロフィーはアリーナまたはチームアリーナシーズンの終わりに1位、2位、3位であると獲得されます。トロフィーは多くの選手がいる活発な地域でのみ授与されます。</string>
     <string name="BLOCKED">ブロックされました</string>
-    <string name="CLAN_WAR_HISTORY">クラン戦の履歴</string>
+    <string name="CLAN_WAR_HISTORY">クラン戦争の履歴</string>
     <string name="Particle">パーティクル</string>
     <string name="Privacy">プライバシーポリシー</string>
     <string name="EULA">EULA</string>

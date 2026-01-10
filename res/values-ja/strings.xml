@@ -791,7 +791,7 @@
     <string name="account_warning">"どんな事があってもアカウント情報を共有することはありません"</string>
     <string name="Clan_Hero">"クランヒーロー"</string>
     <string name="Win_1000_Clan_Wars">"クラン戦争1000回勝利"</string>
-    <string name="NAME_COLOR">"名前カラー"</string>
+    <string name="NAME_COLOR">"ネームカラー"</string>
     <string name="name_color_instructions">"あなたがカラー変更したい文字を選択してください。"</string>
     <string name="Cannot_change_this_character_">"この文字はカラー変更できません"</string>
     <string name="ZOMBIE_APOCALYPSE">"ゾンビの黙示録"</string>

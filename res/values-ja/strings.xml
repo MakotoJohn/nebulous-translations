@@ -711,7 +711,7 @@
     <string name="Collect_5_000_notes_">"ノートを5000個収集します。"</string>
     <string name="Collect_10_000_notes_">"ノートを1万個収集します。"</string>
     <string name="notes_">"ノート。"</string>
-    <string name="CLICK_CHEAT_DETECTED_">"クリックチートを検出しました！"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"クリックチートが検出されました！"</string>
     <string name="Pumpkin_Hoarder">"カボチャため込んでいる人"</string>
     <string name="Pumpkin_Mogul">"カボチャモーグル"</string>
     <string name="Leaf_Mogul">"リーフモーグル"</string>
@@ -792,7 +792,7 @@
     <string name="Clan_Hero">"クランヒーロー"</string>
     <string name="Win_1000_Clan_Wars">"クラン戦争1000回勝利"</string>
     <string name="NAME_COLOR">"ネームカラー"</string>
-    <string name="name_color_instructions">"あなたがカラー変更したい文字を選択してください。"</string>
+    <string name="name_color_instructions">"カラー変更したい文字を選択する。"</string>
     <string name="Cannot_change_this_character_">"この文字はカラー変更できません"</string>
     <string name="ZOMBIE_APOCALYPSE">"ゾンビの黙示録"</string>
     <string name="Survive_a_Zombie_Apocalypse">"ゾンビの黙示録で生き残る"</string>
@@ -816,7 +816,7 @@
     <string name="Registered">"登録されました"</string>
     <string name="Not_Registered">"未登録"</string>
     <string name="Prize_Pool">"賞金"</string>
-    <string name="Registrants">"登録者数"</string>
+    <string name="Registrants">"登録者数:"</string>
     <string name="Round_Of">"ラウンド"</string>
     <string name="Next_Tournament">"次のトーナメント"</string>
     <string name="Plasma_Won">"プラズマウォン"</string>
@@ -932,7 +932,7 @@
     <string name="Choose_Menu">メニューを選択</string>
     <string name="SPECTATE">観戦</string>
     <string name="INVITE">招待</string>
-    <string name="error_1">リーダーまたはダイヤモンドだけがクランメールを送ることができます。</string>
+    <string name="error_1">リーダーまたはダイヤモンドのみがクランメールを送ることができます。</string>
     <string name="Hat">帽子</string>
     <string name="Hats">帽子</string>
     <string name="Pet_Uploads">ペットアップロード</string>
@@ -977,7 +977,7 @@
     <string name="COPY">コピー</string>
     <string name="_1v1_Ultra">1対1ウルトラ</string>
     <string name="ArenaDescriptionUltra">勝者は%sプラズマ獲得できます</string>
-    <string name="BANNED">禁止されました</string>
+    <string name="BANNED">禁止済</string>
     <string name="CLAN_MEMBERS">クランメンバー</string>
     <string name="CLAN_REQUESTS">クランリクエスト</string>
     <string name="Pet_1">ペット1</string>
@@ -1010,7 +1010,7 @@
     <string name="Allow_Mass_Boost">マスブーストを許可</string>
     <string name="Challenges_Won_">勝ったチャレンジ数:</string>
     <string name="trophy_info">トロフィーはアリーナまたはチームアリーナシーズンの終わりに1位、2位、3位であると獲得されます。トロフィーは多くの選手がいる活発な地域でのみ授与されます。</string>
-    <string name="BLOCKED">ブロックされました</string>
+    <string name="BLOCKED">ブロック済</string>
     <string name="CLAN_WAR_HISTORY">クラン戦争の履歴</string>
     <string name="Particle">パーティクル</string>
     <string name="Privacy">プライバシーポリシー</string>
@@ -1103,7 +1103,7 @@
     <string name="Horizontal">ホリゾンタル</string>
     <string name="Vertical">バーティカル</string>
     <string name="GROUP">グループ</string>
-    <string name="LEAVE">退出</string>
+    <string name="LEAVE">退室</string>
     <string name="Group">グループ</string>
     <string name="Not_in_a_group_">グループにいません。</string>
     <string name="group_chat_create" translatable="true" tools:ignore="Untranslatable">このグループIDを友だちに送ることができます:</string>
@@ -1113,9 +1113,9 @@
     <string name="People" translatable="true" tools:ignore="Untranslatable">人々</string>
     <string name="Failed_to_join">参加に失敗</string>
     <string name="Full">Full</string>
-    <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">一人が参加しました！</string>
-    <string name="person_left" translatable="true" tools:ignore="Untranslatable">一人が退出しました！</string>
-    <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">グループに退出しました</string>
+    <string name="new_person_joined" translatable="true" tools:ignore="Untranslatable">1人が参加しました！</string>
+    <string name="person_left" translatable="true" tools:ignore="Untranslatable">1人が退室しました！</string>
+    <string name="Left_the_group" translatable="true" tools:ignore="Untranslatable">グループに退室しました</string>
     <string name="Tricks_Performed_">実行したトリック数:</string>
     <string name="Not_enough_plasma_">プラズマ不足！</string>
     <string name="GET_PLASMA">プラズマを購入</string>
@@ -1136,9 +1136,9 @@
     <string name="DARK_MATTER">ダークマター</string>
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
     <string name="Enable_Profile_Colors">プロフィールカラーを有効にする</string>
-    <string name="Session_Stats">Session Stats</string>
+    <string name="Session_Stats">このゲームの統計</string>
     <string name="Time_">Time:</string>
-    <string name="Show_Session_Stats">最後のゲームの統計を表示</string>
+    <string name="Show_Session_Stats">前回のゲームの統計を表示</string>
     <string name="VALENTINES_DAY">"バレンタインデー"</string>
     <string name="Giveaways_">抽選！</string>
     <string name="Max_XP_Chain_">Max XP Chain:</string>
@@ -1155,7 +1155,7 @@
 
     <string name="Refund__Multiskin">マルチスキン\nを返金する</string>
     <string name="Invalid_Clan_ID_">無効なクランID。</string>
-    <string name="MUTED">ミュートされました</string>
+    <string name="MUTED">ミュート済</string>
     <string name="SKIN">スキン</string>
     <string name="Choose_Skin_Size">スキンサイズを選択</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Other players will not be able to hear you!</string>
@@ -1201,8 +1201,8 @@
     <string name="Received_">を受け取った数:</string>
     <string name="Opponent_Rating_Limit_">Opponent Rating Limit:</string>
     <string name="TOGGLE_FAVORITE">お気に入りスキンを切り替える</string>
-    <string name="Favorited">お気に入りスキンに追加</string>
-    <string name="Unfavorited">お気に入りスキンから削除</string>
+    <string name="Favorited">お気に入りスキンに追加済み</string>
+    <string name="Unfavorited">お気に入りスキンから削除済み</string>
     <string name="Background_Scale_">背景スケール:</string>
     <string name="Background_Lightness_">背景の明るさ:</string>
     <string name="Background_Image_">背景画像:</string>
@@ -1225,7 +1225,7 @@
     <string name="x4_XP_Permanent">永久に経験値4倍</string>
     <string name="x4_XP_24_hours">経験値4倍24時間</string>
     <string name="x4_XP_1_Hour">経験値4倍1時間</string>
-    <string name="Quad">Quadruple</string>
+    <string name="Quad">4X</string>
     <string name="Middle_East">中東</string>
     <string name="XP_4x">経験値4倍</string>
     <string name="You_cannot_play_for_x_minutes_">あなたが%d分間プレイできません。</string>
@@ -1269,7 +1269,7 @@
 !kick [0-31]
 !reset
 !welcome {メッセージ}
-!difficulty [0-3] または [1-4] キャンペーン用
+!difficulty [0-3] またはキャンペーンで [1-4] 
 !hidden
 !slowchat
 !pausechat
@@ -1277,7 +1277,7 @@
 !admin {ID}
 !allow {ID}
 !allow reset
-!team [1-4] {ID} (チーム戦モードだけ)
+!team [1-4] {ID} (チーム戦モードのみ)
 !winner
 !stats
 !info"

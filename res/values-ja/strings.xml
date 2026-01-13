@@ -1059,7 +1059,7 @@
     <string name="Rename">名前を変更する</string>
     <string name="Set_friendly_name_">フレンドリーネームを設定してください。</string>
     <string name="Leave_blank_for_none_">空欄のままにすると、デフォルトになります。</string>
-    <string name="Vote_Kick">プレイヤーをルームから追い出す</string>
+    <string name="Vote_Kick">プレイヤーをキックする</string>
     <string name="FONT">フォント</string>
     <string name="CIRCLE">丸</string>
     <string name="SQUARES">四角</string>
@@ -1190,7 +1190,7 @@
     <string name="Spectate_Killer_On_Death">自動でキラーを観戦</string>
     <string name="Rainbow_Holes">Rainbow Holes</string>
     <string name="LIFE_STEAL">LIFE STEAL</string>
-    <string name="Kicked_From_Game_">あなたはルームから追い出されました！</string>
+    <string name="Kicked_From_Game_">キックされました！</string>
     <string name="Conquest">コンクエスト</string>
     <string name="Finish_the_last_mission_in_the_campaign_">キャンペーンでミッション 20 を完了する</string>
     <string name="Collected_">を収集した数:</string>
@@ -1217,7 +1217,7 @@
     <string name="CHAMPION">チャンピオン</string>
     <string name="DASH">ダッシュ</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">トリックモードで1万トリックを実行する</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">トリックモードで1万トリックを稼ぐ</string>
     <string name="Tricky">トリッキ</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">コンケラー</string>
@@ -1228,7 +1228,7 @@
     <string name="Quad">4X</string>
     <string name="Middle_East">中東</string>
     <string name="XP_4x">経験値4倍</string>
-    <string name="You_cannot_play_for_x_minutes_">あなたが%d分間プレイできません。</string>
+    <string name="You_cannot_play_for_x_minutes_">%d分間プレイできません。</string>
     <string name="x4_Clan_XP_Perm">永久にクラン経験値4倍！</string>
     <string name="x4_Clan_XP_7_days">クラン経験値4倍7日間</string>
     <string name="x4_Clan_XP_1_Day">クラン経験値4倍1日間</string>

@@ -1211,8 +1211,8 @@
     <string name="Victorious">Victorious</string>
     <string name="Dominant">Dominant</string>
     <string name="Champion">チャンピオン</string>
-    <string name="Win_10_Tournaments">10 トーナメントを勝つ</string>
-    <string name="Win_100_Tournaments">100 トーナメントを勝つ</string>
+    <string name="Win_10_Tournaments">トーナメントで10回優勝する</string>
+    <string name="Win_100_Tournaments">トーナメントで100回優勝する</string>
     <string name="HERO">ヒーロー</string>
     <string name="CHAMPION">チャンピオン</string>
     <string name="DASH">ダッシュ</string>

@@ -778,16 +778,16 @@
     <string name="RESET">"リセット"</string>
     <string name="Message_Sent_">"メッセージ送信済み！"</string>
     <string name="From">"から:"</string>
-    <string name="Sent">"送信されました"</string>
+    <string name="Sent">"送信済み"</string>
     <string name="REPLY">"応答"</string>
     <string name="Delete_Message">"メッセージを削除"</string>
     <string name="BLOCK">"ブロック"</string>
     <string name="DELETE">"削除"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"注：あなたはフレンド申請を送信することによって、ブロックを解除することができます。"</string>
-    <string name="Select_Friend">"フレンドを選択"</string>
-    <string name="Failed_to_send_mail_">"メールの送信に失敗しました。"</string>
+    <string name="Select_Friend">"フレンドリストから選択"</string>
+    <string name="Failed_to_send_mail_">"メールの送信に失敗"</string>
     <string name="In_Game_Mail">"ゲーム内メール"</string>
-    <string name="Nav_Buttons_">"ナビゲーションボタン:"</string>
+    <string name="Nav_Buttons_">"ナビボタン位置:"</string>
     <string name="account_warning">"どんな事があってもアカウント情報を共有することはありません"</string>
     <string name="Clan_Hero">"クランヒーロー"</string>
     <string name="Win_1000_Clan_Wars">"クラン戦争1000回勝利"</string>
@@ -803,17 +803,17 @@
     <string name="Win_as_survivors_with_no_losses_">"無損失で生存者として勝ちます。"</string>
     <string name="ZOMBIE_">"ゾンビ"</string>
     <string name="SURVIVOR_">"生存者"</string>
-    <string name="Zombies">"ゾンビ"</string>
-    <string name="Survivors">"生存者"</string>
-    <string name="Enter_a_Tournament">"トーナメントに参加"</string>
-    <string name="Win_a_Tournament">"トーナメントで勝利"</string>
-    <string name="Tournament_Competing">"競合トーナメント"</string>
-    <string name="Tournament_Registered">"トーナメント登録"</string>
+    <string name="Zombies">"ゾンビ数"</string>
+    <string name="Survivors">"生存者数"</string>
+    <string name="Enter_a_Tournament">"トーナメントに参加する"</string>
+    <string name="Win_a_Tournament">"トーナメントで勝利する"</string>
+    <string name="Tournament_Competing">"トーナメント競合中"</string>
+    <string name="Tournament_Registered">"トーナメント登録完了"</string>
     <string name="Tournament">"トーナメント"</string>
     <string name="TourneyDescription">"トーナメントをプレイするにはト『トーナメント登録』をする必要がありますトーナメントが開始するときには、プラズマが必要となりますが、トーナメント開始前に登録を解除するとプラズマは減りません。トーナメントがスタートします%d出場。"</string>
     <string name="Register">"登録"</string>
 
-    <string name="Registered">"登録されました"</string>
+    <string name="Registered">"登録完了"</string>
     <string name="Not_Registered">"未登録"</string>
     <string name="Prize_Pool">"賞金"</string>
     <string name="Registrants">"登録者数:"</string>
@@ -826,12 +826,12 @@
     <string name="Finals">"決勝"</string>
     <string name="Unregister">"登録解除"</string>
     <string name="Enter_My_Match">"マイマッチに参加"</string>
-    <string name="Starts_In">"で開始"</string>
+    <string name="Starts_In">"開始:"</string>
     <string name="Seconds">"秒"</string>
     <string name="Tournaments_Temporarily_Disabled">"一時的に無効なトーナメント"</string>
     <string name="CLAN_NAME_COLOR">"クラン名カラー"</string>
     <string name="Tuber">"動画投稿者"</string>
-    <string name="youtube_prompt">"YouTubeチャンネルを閲覧しに行きますか？"</string>
+    <string name="youtube_prompt">"YouTubeチャンネルを見てみる？このチャンネルは、ネビュラスの開発元とは提携していません。"</string>
     <string name="Tournament_Matches_Won_">"勝ったトーナメント数:"</string>
     <string name="PAINT">"ペイント"</string>
     <string name="BLOCKED_ACCOUNTS">"ブロックしたアカウント"</string>
@@ -917,8 +917,8 @@
     <string name="gift_to_friend">フレンドへの贈り物</string>
     <string name="gift_purchase_warning">この購入を友人に贈ることを選択したため、この購入は受けられません。</string>
     <string name="x2_Clan_XP_7_Days">クラン経験値2倍7日</string>
-    <string name="RECEIVED">受け取りました</string>
-    <string name="SENT">送りました</string>
+    <string name="RECEIVED">受信済</string>
+    <string name="SENT">送信済</string>
     <string name="Enable_Invites">招待を有効</string>
     <string name="Game_Invitation">ゲームの招待</string>
     <string name="__has_invited_you_to_join_their_game_">%s あなたが参加できるように招待が送られました</string>
@@ -1013,7 +1013,7 @@
     <string name="BLOCKED">ブロック済</string>
     <string name="CLAN_WAR_HISTORY">クラン戦争の履歴</string>
     <string name="Particle">パーティクル</string>
-    <string name="Privacy">プライバシーポリシー</string>
+    <string name="Privacy">プライバシー\nポリシー</string>
     <string name="EULA">EULA</string>
     <string name="You_can_purchase_this_hat_for">この帽子を購入する事が可能です</string>
     <string name="You_can_purchase_this_particle_for">あなたはこの帽子を購入することができます</string>
@@ -1137,7 +1137,7 @@
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
     <string name="Enable_Profile_Colors">プロフィールカラーを有効にする</string>
     <string name="Session_Stats">このゲームの統計</string>
-    <string name="Time_">Time:</string>
+    <string name="Time_">残り時間:</string>
     <string name="Show_Session_Stats">前回のゲームの統計を表示</string>
     <string name="VALENTINES_DAY">"バレンタインデー"</string>
     <string name="Giveaways_">抽選！</string>
@@ -1246,7 +1246,7 @@
     <string name="particle_info">You must be at least level 50 and use a base skin with particles in order to see any particles.</string>
     <string name="Plain_Score_Text">"リーダーボードのシンプルテキスト"</string>
     <string name="Custom_Skin_Reviewed_Notification">カスタムスキンが受理されました！</string>
-    <string name="You_Have_Mail_">%s から新着メール受信！</string>
+    <string name="You_Have_Mail_">新着メール受信！(%s から)</string>
     <string name="Clan_Request_Reviewed_Notification">『%s』クランに参加リクエストが承認されました！</string>
     <string name="CRAZY_SPLIT">CRAZY スプリット32x</string>
     <string name="Sold_Community_Skins_">"販売したコミュニティスキン数: "</string>
@@ -1296,7 +1296,7 @@
 
 
     <string name="Type">これを入力してください：</string>
-    <string name="Complete_campaign_mission_">次のキャンペーンミッションを完了:</string>
+    <string name="Complete_campaign_mission_">次のキャンペーン\nミッションを完了:</string>
     <string name="Specify_Reason_">理由を詳しく述べてください：</string>
     <string name="FREE_FOR_ALL">個人戦モード</string>
     <string name="SPECIAL">特別</string>

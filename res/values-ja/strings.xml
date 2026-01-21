@@ -43,7 +43,7 @@
     <string name="IDLE">"待機中"</string>
     <string name="Name_Invalid_">"使用不可能な名前"</string>
     <string name="Name_Taken_">"この名前は既に使用されています"</string>
-    <string name="CONNECTED">"接続完了"</string>
+    <string name="CONNECTED">"接続済み"</string>
     <string name="JOINING___">"参加中…"</string>
     <string name="PLAYING">"プレイ中"</string>
     <string name="MULTIPLAYER">"マルチプレイ"</string>
@@ -69,7 +69,7 @@
     <string name="SINGLE_PLAYER">"シングルプレイ"</string>
     <string name="Background_">"背景:"</string>
     <string name="Difficulty_">"難易度:"</string>
-    <string name="Delay_Disconnect">"接続切れを遅延します"</string>
+    <string name="Delay_Disconnect">"接続切れを遅延"</string>
 
     <string name="Max_Players">"最多プレイヤー数"</string>
     <string name="Min_Players">"最少プレイヤー数"</string>
@@ -77,7 +77,7 @@
     <string name="OK">"はい"</string>
     <string name="CANCEL">"キャンセル"</string>
     <string name="Chat_Name">"チャット名:"</string>
-    <string name="Max_People">"最大人数"</string>
+    <string name="Max_People">"最大人数:"</string>
     <string name="START">"開始"</string>
     <string name="CREATE">"作成"</string>
     <string name="CUSTOM_GAMES">"カスタムゲーム"</string>
@@ -87,21 +87,21 @@
 
 
     <string name="ACCOUNT">"アカウント"</string>
-    <string name="Red_Team">"赤チーム"</string>
-    <string name="Green_Team">"緑チーム"</string>
-    <string name="Blue_Team">"青チーム"</string>
-    <string name="Yellow_Team">"黄色チーム"</string>
-    <string name="Signed_in_as_">"現在アカウント"</string>
+    <string name="Red_Team">"レッドチーム"</string>
+    <string name="Green_Team">"グリーンチーム"</string>
+    <string name="Blue_Team">"ブルーチーム"</string>
+    <string name="Yellow_Team">"イエローチーム"</string>
+    <string name="Signed_in_as_">"現在アカウント:"</string>
     <string name="Not_signed_in_">"ログインしていません！"</string>
-    <string name="SET_NAME">"名前設定"</string>
+    <string name="SET_NAME">"名前を設定"</string>
     <string name="SIGN_OUT">"ログアウト"</string>
-    <string name="ACHIEVEMENTS">"ミッション"</string>
+    <string name="ACHIEVEMENTS">"達成"</string>
     <string name="STATISTICS">"統計"</string>
     <string name="XP_">"経験値:"</string>
 
     <string name="Information">"情報"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"このスキンは次のミッションを達成すれば使えます。 : "</string>
-    <string name="To_use_this_skin_you_must_reach_level">"このスキンは次のレベル以上のプレイヤーだけ使えます。: "</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"このスキンは次のミッションを達成すれば使えます:"</string>
+    <string name="To_use_this_skin_you_must_reach_level">"このスキンは次のレベル以上のプレイヤーだけ使えます:"</string>
     <string name="SIGN_IN">"ログイン"</string>
 
     <string name="Single_Player_Stats">"シングルプレイの統計"</string>
@@ -118,12 +118,12 @@
     <string name="Private">"非公開"</string>
     <string name="Public">"公開"</string>
     <string name="Bot">"AI"</string>
-    <string name="You">"あなたは"</string>
+    <string name="You">"自分"</string>
     <string name="This_player_is_a_bot">"このプレイヤーはAIです。"</string>
     <string name="This_player_is_not_signed_in">"このプレイヤーはログインしていません。"</string>
 
     <string name="Online">"オンライン"</string>
-    <string name="Unknown">"未確認"</string>
+    <string name="Unknown">"不明"</string>
     <string name="Offline">"オフライン"</string>
     <string name="Achievement_Earned">"ミッション達成"</string>
     <string name="REFRESH">"更新"</string>
@@ -189,29 +189,29 @@
     <string name="Revenge">"敵討ち"</string>
     <string name="Doge_Pound">"犬潰し"</string>
 
-    <string name="Absorb_50_dots">"50個のドットを吸収"</string>
-    <string name="Absorb_300_dots">"300個のドットを吸収"</string>
-    <string name="Absorb_1_000_dots">"1000個のドットを吸収"</string>
-    <string name="Absorb_5_000_dots">"5000個のドットを吸収"</string>
-    <string name="Absorb_10_000_dots">"1万個のドットを吸収"</string>
-    <string name="Absorb_50_000_dots">"5万個のドットを吸収"</string>
-    <string name="Absorb_100_000_dots">"10万個のドットを吸収"</string>
-    <string name="Absorb_1_000_000_dots">"100万個のドットを吸収"</string>
+    <string name="Absorb_50_dots">"ドットを50個吸収する"</string>
+    <string name="Absorb_300_dots">"ドットを300個吸収する"</string>
+    <string name="Absorb_1_000_dots">"ドットを1000個吸収する"</string>
+    <string name="Absorb_5_000_dots">"ドットを5000個吸収する"</string>
+    <string name="Absorb_10_000_dots">"のドットを1万個吸収する"</string>
+    <string name="Absorb_50_000_dots">"ドットを5万個吸収する"</string>
+    <string name="Absorb_100_000_dots">"ドットを10万個吸収する"</string>
+    <string name="Absorb_1_000_000_dots">"ドットを100万個吸収する"</string>
 
-    <string name="Absorb_4_blobs_quickly">"いっきに4個のブロブを吸収"</string>
-    <string name="Absorb_8_blobs_quickly">"いっきに8個のブロブを吸収"</string>
-    <string name="Absorb_16_blobs_quickly">"いっきに16個のブロブを吸収"</string>
-    <string name="Absorb_24_blobs_quickly">"いっきに24個のブロブを吸収"</string>
-    <string name="Absorb_32_blobs_quickly">"いっきに32個のブロブを吸収"</string>
-    <string name="Absorb_40_blobs_quickly">"いっきに40個のブロブを吸収"</string>
+    <string name="Absorb_4_blobs_quickly">"ブロブをいっきに4個吸収する"</string>
+    <string name="Absorb_8_blobs_quickly">"ブロブをいっきに8個吸収する"</string>
+    <string name="Absorb_16_blobs_quickly">"ブロブをいっきに16個吸収する"</string>
+    <string name="Absorb_24_blobs_quickly">"ブロブをいっきに24個吸収する"</string>
+    <string name="Absorb_32_blobs_quickly">"ブロブをいっきに32個吸収する"</string>
+    <string name="Absorb_40_blobs_quickly">"ブロブをいっきに40個吸収する"</string>
 
-    <string name="Absorb_8_player_blobs_without_restarting">"1回のプレイで8人のプレイヤーを吸収"</string>
-    <string name="Absorb_16_player_blobs_without_restarting">"1回のプレイで16人のプレイヤーを吸収"</string>
-    <string name="Absorb_32_player_blobs_without_restarting">"1回のプレイで32人のプレイヤーを吸収"</string>
-    <string name="Absorb_48_player_blobs_without_restarting">"1回のプレイで48人のプレイヤーを吸収"</string>
-    <string name="Absorb_80_player_blobs_without_restarting">"1回のプレイで80人のプレイヤーを吸収"</string>
-    <string name="Absorb_160_player_blobs_without_restarting">"1回のプレイで160人のプレイヤーを吸収"</string>
-    <string name="Absorb_240_player_blobs_without_restarting">"1回のプレイで240人のプレイヤーを吸収"</string>
+    <string name="Absorb_8_player_blobs_without_restarting">"1回のプレイでブロブを8個吸収する"</string>
+    <string name="Absorb_16_player_blobs_without_restarting">"1回のプレイでブロブを16個吸収する"</string>
+    <string name="Absorb_32_player_blobs_without_restarting">"1回のプレイでブロブを32個吸収する"</string>
+    <string name="Absorb_48_player_blobs_without_restarting">"1回のプレイでブロブを48個吸収する"</string>
+    <string name="Absorb_80_player_blobs_without_restarting">"1回のプレイでブロブを80個吸収する"</string>
+    <string name="Absorb_160_player_blobs_without_restarting">"1回のプレイでブロブを160個吸収する"</string>
+    <string name="Absorb_240_player_blobs_without_restarting">"1回のプレイでブロブを240個吸収する"</string>
 
     <string name="Reach_a_score_of_1_000">"スコア1000点を達成"</string>
     <string name="Reach_a_score_of_5_000">"スコア5000点を達成"</string>
@@ -230,9 +230,9 @@
     <string name="Absorb_5_doges_without_restarting">"1回のプレイで5人の犬スキンを食う"</string>
 
     <string name="Friends">"フレンド"</string>
-    <string name="Dots_Eaten_">"食べたドット数:"</string>
-    <string name="Blobs_Eaten_">"食べたブロブ数:"</string>
-    <string name="Blobs_Lost_">"失ったブロブ数:"</string>
+    <string name="Dots_Eaten_">"食べたドットの数:"</string>
+    <string name="Blobs_Eaten_">"食べたブロブの数:"</string>
+    <string name="Blobs_Lost_">"失ったブロブの数:"</string>
     <string name="Mass_Gained_">"総獲得量:"</string>
     <string name="Mass_Ejected_">"総粒出し量:"</string>
     <string name="Times_Ejected_">"粒を出した回数:"</string>
@@ -242,7 +242,7 @@
     <string name="Average_Score_">"平均スコア:"</string>
     <string name="Times_Played_">"プレイした回数:"</string>
     <string name="Longest_Life_">"一番長かった生存時間:"</string>
-    <string name="Games_Won_">"勝ったゲーム数:"</string>
+    <string name="Games_Won_">"勝ったゲームの数:"</string>
 
     <string name="You_must_wait_until_the_end_of_the_round_">"このセットが終わるまでお待ちください。"</string>
     <string name="Dont_show_again">"表示しない"</string>
@@ -251,12 +251,12 @@
     <string name="Special_Effects">"特集効果"</string>
     <string name="Blob_Mushiness">"ふかふかなブロブ"</string>
 
-    <string name="Specify_private_game_name">"非公開ゲームの名前を指定する"</string>
-    <string name="In_Game_Chat">"ゲーム中のチャット"</string>
+    <string name="Specify_private_game_name">"非表示ルーム名を入力"</string>
+    <string name="In_Game_Chat">"ゲーム内チャット"</string>
     <string name="My_Status_">"ステータス:"</string>
     <string name="Game_Size_">"ルームサイズ:"</string>
 
-    <string name="Server_Restart_">"サーバーを再起動します:"</string>
+    <string name="Server_Restart_">"サーバー再起動:"</string>
     <string name="GOAL_">"ゴール！"</string>
     <string name="SOCCER">"サッカー"</string>
     <string name="DRAW">"引き分け"</string>
@@ -265,14 +265,14 @@
     <string name="Clan">"クラン"</string>
 
 
-    <string name="JOIN_CLAN">"クランに参加する"</string>
-    <string name="JOIN_RANDOM_CLAN">"ランダムでクランに参加する"</string>
-    <string name="LEAVE_CLAN">"このクランから脱退する"</string>
-    <string name="INVITE_MEMBER">"メンバーを招待する"</string>
-    <string name="REMOVE_MEMBER">"メンバーを削除する"</string>
+    <string name="JOIN_CLAN">"クランに参加"</string>
+    <string name="JOIN_RANDOM_CLAN">"ランダムなクランに参加"</string>
+    <string name="LEAVE_CLAN">"クランから脱退"</string>
+    <string name="INVITE_MEMBER">"メンバーを招待"</string>
+    <string name="REMOVE_MEMBER">"メンバーを削除"</string>
 
 
-    <string name="CREATE_CLAN">"新しいクランを作る"</string>
+    <string name="CREATE_CLAN">"新しいクランを作成"</string>
     <string name="MEMBER">"メンバー"</string>
     <string name="ADMIN">"アドミン"</string>
     <string name="LEADER">"リーダー"</string>
@@ -285,36 +285,36 @@
     <string name="CLAN">"クラン"</string>
 
 
-    <string name="Specify_Clan_ID">"クランIDを指定してください"</string>
+    <string name="Specify_Clan_ID">"クランIDを入力"</string>
     <string name="Show_Clan_Names">"クラン名を表示"</string>
     <string name="Show_Levels">"レベルを表示"</string>
     <string name="SET_MOTD">"今日のお知らせを設定"</string>
     <string name="No_such_user_found_">"そのユーザーは見つかりませんでした。"</string>
-    <string name="No_open_public_clans_exist_">"公開されたクランが存在しません。"</string>
+    <string name="No_open_public_clans_exist_">"公開されたクランがありません。"</string>
     <string name="You_aren_t_invited_to_that_clan_">"あなたはそのクランに招待されていません。"</string>
-    <string name="No_such_clan_exists_">"存在しないクランです。"</string>
+    <string name="No_such_clan_exists_">"クランが見つかりません。"</string>
     <string name="That_clan_is_full_">"満員のクランです。"</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"他のユーザーがあなたのクランのメンバーじゃありません。"</string>
-    <string name="_You_can_t_be_your_own_friend_">"あなた自身をフレンドにするのはできません。"</string>
-    <string name="A_clan_with_that_name_already_exists_">"その名前を使っているクランが存在します。"</string>
+    <string name="_You_can_t_be_your_own_friend_">"自分をフレンドに追加することはできません。"</string>
+    <string name="A_clan_with_that_name_already_exists_">"そのクラン名はすでに使われています。"</string>
     <string name="Duration_">"制限時間："</string>
 
     <string name="FFA_Time_Domination">"個人戦（制限時間あり）支配"</string>
     <string name="Teams_Time_Domination">"チーム戦（制限時間あり）支配"</string>
     <string name="CTF_Domination">"フラッグフットボール支配"</string>
-    <string name="CTF_Hat_Trick">"フラッグフットボール　ハットトリック"</string>
+    <string name="CTF_Hat_Trick">"フラッグフットボール・ハットトリック"</string>
     <string name="Survival_Domination">"生存バトル支配"</string>
     <string name="I_Will_Survive">"必ず生存します"</string>
     <string name="Soccer_Domination">"サッカー支配"</string>
-    <string name="Soccer_Hat_Trick">"サッカーハットトリック"</string>
-    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"個人戦（制限時間あり）ゲームで2500スコア以上で勝つ"</string>
-    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"チーム戦（制限時間あり）ゲームで7500スコア以上で勝つ"</string>
-    <string name="Win_by_3_points_in_a_CTF_game_">"フラッグフットボールゲームで3ポイントで勝つ"</string>
-    <string name="Score_3_points_in_a_single_CTF_game_">"一つのフラッグフットボールゲームで3ポイントを得る"</string>
-    <string name="Win_by_2_500_points_in_a_Survival_game_">"生存バトルゲームで2500スコア以上で勝つ"</string>
-    <string name="Survive_but_do_not_win_a_survival_game_">"生存バトルゲームで勝たずに生存"</string>
-    <string name="Win_by_8_points_in_a_Soccer_game_">"サッカーゲームで8ポイントで勝つ"</string>
-    <string name="Score_3_goals_in_a_single_Soccer_game_">"サッカーゲームで8ポイントを得る"</string>
+    <string name="Soccer_Hat_Trick">"サッカー・ハットトリック"</string>
+    <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"【個人戦（制限時間あり）】モード：2500スコア以上で勝つ"</string>
+    <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"【チーム戦（制限時間あり）】モード：7500スコア以上で勝つ"</string>
+    <string name="Win_by_3_points_in_a_CTF_game_">"【フラッグフットボール】モード：3ポイントで勝つ"</string>
+    <string name="Score_3_points_in_a_single_CTF_game_">"【フラッグフットボール】モード：1回のプレイで3ポイントを得る"</string>
+    <string name="Win_by_2_500_points_in_a_Survival_game_">"【生存バトル】モード：2500スコア以上で勝つ"</string>
+    <string name="Survive_but_do_not_win_a_survival_game_">"【生存バトル】モード：勝たずに生存"</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"【サッカー】モード：8ポイントで勝つ"</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"【サッカー】モード：1回のゲームで8ポイントを得る"</string>
     <string name="Total_Domination">"総支配"</string>
     <string name="Win_500_games_of_any_type_">"ゲーム種類に関わらず500勝"</string>
     <string name="Translations">"翻訳"</string>
@@ -334,24 +334,24 @@
     <string name="Win_a_Soccer_Game">"サッカーゲームで勝つ"</string>
     <string name="Win_a_Survival_Game">"生存バトルゲームで勝つ"</string>
     <string name="Win_a_Teams_Time_Game">"チーム戦（制限時間あり）ゲームで勝つ"</string>
-    <string name="Reach_a_score_of_">"次のスコアをえる : "</string>
-    <string name="_in_a_FFA_Game">"個人戦ゲームで"</string>
-    <string name="_in_a_Teams_Game">"チーム戦ゲームで"</string>
-    <string name="_dots">"ドット"</string>
-    <string name="_player_blobs">"プレイヤー"</string>
-    <string name="Absorb_">"吸収する"</string>
-    <string name="Collect_">"収集する"</string>
+    <string name="Reach_a_score_of_">"次のスコアを得る: "</string>
+    <string name="_in_a_FFA_Game">"（個人戦）"</string>
+    <string name="_in_a_Teams_Game">"（チーム戦）"</string>
+    <string name="_dots">"個のドット"</string>
+    <string name="_player_blobs">"個のブロブ"</string>
+    <string name="Absorb_">"次の数量を吸収する:"</string>
+    <string name="Collect_">"次のアイテム量を集める:"</string>
 
     <string name="FFA_CLASSIC">"個人戦（クラシック）"</string>
 
 
-    <string name="pumpkins_">"カボチャ。"</string>
-    <string name="To_use_this_skin_you_must_collect">"このスキンは次のアイテムを収集すれば使えます。 : "</string>
+    <string name="pumpkins_">"個のカボチャ"</string>
+    <string name="To_use_this_skin_you_must_collect">"スキンは次のアイテム量を集めれば使えます:"</string>
     <string name="Australia">"オーストラリア"</string>
     <string name="Pumpkin_Collector">"カボチャ収集家"</string>
-    <string name="Collect_1000_pumpkins_">"1000個のカボチャを収集する"</string>
+    <string name="Collect_1000_pumpkins_">"カボチャを1000個集める"</string>
 
-    <string name="FFAC">"個人戦（クラシック）"</string>
+    <string name="FFAC">"FFAC"</string>
     <string name="NONE">"なし"</string>
     <string name="CLAN_WAR">"クラン戦争"</string>
     <string name="Clan_War">"クラン戦争"</string>
@@ -364,7 +364,7 @@
 
     <string name="Score">"スコア"</string>
     <string name="Rating">"レート"</string>
-    <string name="You_are_about_to_make_a_new_leader_">"このプレイヤーにリーダーを渡しますか？"</string>
+    <string name="You_are_about_to_make_a_new_leader_">"。\nこのプレイヤーにリーダーを渡しますか？"</string>
     <string name="XP">"XP"</string>
     <string name="High_Score">"高得点"</string>
 
@@ -373,30 +373,30 @@
     <string name="_5v5">"5V5"</string>
     <string name="_8v8">"8v8"</string>
     <string name="Top_Ranks">"上位ランキング"</string>
-    <string name="My_Ranks">"個人ランキング"</string>
+    <string name="My_Ranks">"自分のランキング"</string>
     <string name="Player_XP">"プレイヤー経験値"</string>
 
     <string name="W_D_L">"勝・負・失"</string>
-    <string name="MATCH_START">"マッチスタート"</string>
+    <string name="MATCH_START">"マッチ開始"</string>
     <string name="Clan_Warrior">"クラン戦士"</string>
     <string name="Win_a_Clan_War">"クラン戦争に勝つ"</string>
     <string name="Global">"世界"</string>
     <string name="Spectating">"観戦中"</string>
 
 
-    <string name="snowflakes_">"雪花。"</string>
-    <string name="presents_">"プレゼント箱。"</string>
+    <string name="snowflakes_">"個の雪花"</string>
+    <string name="presents_">"個のプレゼント箱"</string>
     <string name="Snowflake_Collector">"雪花収集家"</string>
     <string name="Present_Collector">"プレゼント箱収集家"</string>
 
 
     <string name="Season">"シーズン"</string>
-    <string name="The_next_season_begins">"シーズンが更新されます。"</string>
+    <string name="The_next_season_begins">"次回シーズン開始予定:"</string>
 
-    <string name="Current">"現在の"</string>
-    <string name="leaves_">"葉。"</string>
+    <string name="Current">"現在"</string>
+    <string name="leaves_">"個の葉"</string>
     <string name="Leaf_Collector">"葉収集家"</string>
-    <string name="Collect_1000_leaves_">"葉を1000個収集する"</string>
+    <string name="Collect_1000_leaves_">"葉を1000個集める"</string>
     <string name="XP_Boost">"経験値ブースト"</string>
     <string name="Double">"2段"</string>
     <string name="Hour">"時間"</string>
@@ -404,8 +404,8 @@
 
 
     <string name="Triple">"3段"</string>
-    <string name="Leaf_Hoarder">"葉貯蓄の達人"</string>
-    <string name="Collect_5000_leaves_">"葉を5000個収集する"</string>
+    <string name="Leaf_Hoarder">"葉ため込み屋"</string>
+    <string name="Collect_5000_leaves_">"葉を5000個集める"</string>
 
 
     <string name="Arena">"アリーナ"</string>
@@ -414,29 +414,29 @@
 
     <string name="Purchase_History">"購入履歴"</string>
 
-    <string name="Purchases_Unavailable_">"購入できません！"</string>
-    <string name="You_can_purchase_this_skin_for">"このスキンを買うためには次の条件を達成しなければなりません。 : "</string>
+    <string name="Purchases_Unavailable_">"購入履歴利用不可！"</string>
+    <string name="You_can_purchase_this_skin_for">"このスキンは次の価格で購入できます:"</string>
     <string name="PURCHASE">"購入"</string>
     <string name="Error_in_backup_data_">"バックアップデータでエラーが発生しました！"</string>
 
 
     <string name="Remove_Ads">"広告を削除"</string>
     <string name="Reward">"景品"</string>
-    <string name="Please_Wait___">"しばらくお待ちください"</string>
-    <string name="Purchasing">"購買中…"</string>
+    <string name="Please_Wait___">"お待ちください"</string>
+    <string name="Purchasing">"購入中…"</string>
 
-    <string name="Purchase_Successful_">"購入に成功しました"</string>
-    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"購入した商品をお使いになるためには再接続が必要です。"</string>
-    <string name="Confirm_Purchase">"購入を確認する"</string>
-    <string name="x3_XP_24_hours">"経験値3倍24時間"</string>
-    <string name="x3_XP_1_Hour">"経験値3倍1時間"</string>
-    <string name="x2_XP_24_Hour">"経験値2倍24時間"</string>
-    <string name="x2_XP_1_Hour">"経験値2倍1時間"</string>
+    <string name="Purchase_Successful_">"購入完了！"</string>
+    <string name="You_may_need_to_reconnect_to_use_the_purchase_">"購入したアイテムをお使いになるためには再接続必要があるかもしれません。"</string>
+    <string name="Confirm_Purchase">"購入を確認"</string>
+    <string name="x3_XP_24_hours">"経験値3倍（24時間）"</string>
+    <string name="x3_XP_1_Hour">"経験値3倍（1時間）"</string>
+    <string name="x2_XP_24_Hour">"経験値2倍（24時間）"</string>
+    <string name="x2_XP_1_Hour">"経験値2倍（1時間）"</string>
     <string name="Cost_">"価格:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"この商品はいま購入できません。"</string>
+    <string name="You_cannot_purchase_this_right_now_">"このアイテムは今購入できません。"</string>
 
 
-    <string name="Loading_Purchases___">"商品リスト読み込み中…"</string>
+    <string name="Loading_Purchases___">"購入履歴読み込み中…"</string>
     <string name="In_App_Purchases">"アプリ内購入"</string>
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"現在使用しているブーストの使用期限が切れるまで新しく購入することはできません"</string>
     <string name="This_purchase_has_already_been_redeemed_">"すでに払い戻されています。"</string>
@@ -464,14 +464,14 @@
     <string name="Plasma">"プラズマ"</string>
     <string name="Plasma_Mogul">"プラズマをもぐもぐ"</string>
     <string name="Plasma_Collector">"プラズマ収集家"</string>
-    <string name="Plasma_Hoarder">"プラズマ貯蓄の達人"</string>
-    <string name="Collect_1_000_Plasma">"1000プラズマを収集する"</string>
-    <string name="Collect_10_000_Plasma_">"1万プラズマを収集する"</string>
-    <string name="Collect_100_000_Plasma">"10万プラズマを収集する。"</string>
-    <string name="Plasma_Collected_">"収集したプラズマの数："</string>
-    <string name="Plasma_Purchases">"購入したプラズマの数 : "</string>
+    <string name="Plasma_Hoarder">"プラズマため込み屋"</string>
+    <string name="Collect_1_000_Plasma">"プラズマを1000枚集める"</string>
+    <string name="Collect_10_000_Plasma_">"プラズマを1万枚集める"</string>
+    <string name="Collect_100_000_Plasma">"プラズマを10万枚集める"</string>
+    <string name="Plasma_Collected_">"集めたプラズマの数:"</string>
+    <string name="Plasma_Purchases">"プラズマの購入"</string>
 
-    <string name="ENTER">"入る"</string>
+    <string name="ENTER">"参加"</string>
     <string name="_1v1">"1V1"</string>
     <string name="Practice">"練習する"</string>
     <string name="ArenaDescription">"あなたは一つだけの生命もらいます。勝者は%sプラズマを受けます。"</string>
@@ -499,201 +499,201 @@
 
 
     <string name="Standard">"一般"</string>
-    <string name="Achievement">"ミッション"</string>
+    <string name="Achievement">"達成"</string>
     <string name="Flag">"国旗"</string>
     <string name="Win_10_Clan_Wars">"10回クラン戦争で勝つ"</string>
     <string name="Win_100_Clan_Wars">"100回クラン戦争で勝つ"</string>
     <string name="Clan_Commander">"クラン司令官"</string>
     <string name="Clan_General">"クラン提督"</string>
-    <string name="Clan_Wars_Won_">"勝ったクラン戦争数:"</string>
-    <string name="Arenas_Won_">"勝ったアリーナゲーム数:"</string>
+    <string name="Clan_Wars_Won_">"勝ったクラン戦争の数:"</string>
+    <string name="Arenas_Won_">"勝ったアリーナゲームの数:"</string>
     <string name="Arena_Mode">"アリーナモード"</string>
     <string name="Connection_Lost">"切断されました"</string>
 
-    <string name="Present_Hoarder">"プレゼント箱貯蓄の達人"</string>
+    <string name="Present_Hoarder">"プレゼント箱ため込み屋"</string>
     <string name="Present_Mogul">"プレゼントをもぐもぐ"</string>
-    <string name="Collect_1_000_presents_">"プレゼント箱を1000個収集する"</string>
-    <string name="Collect_5_000_presents_">"のプレゼント箱を5000個収集する"</string>
-    <string name="Collect_10_000_presents_">"プレゼント箱を1万個収集する"</string>
+    <string name="Collect_1_000_presents_">"プレゼント箱を1000個集める"</string>
+    <string name="Collect_5_000_presents_">"のプレゼント箱を5000個集める"</string>
+    <string name="Collect_10_000_presents_">"プレゼント箱を1万個集める"</string>
     <string name="Loading_reward_video___">"広告動画読み込み中…"</string>
     <string name="Progress">"進行状況"</string>
-    <string name="Snowflake_Hoarder">"雪花貯蓄の達人"</string>
+    <string name="Snowflake_Hoarder">"雪花ため込み屋"</string>
     <string name="Snowflake_Mogul">"雪花をもぐもぐ"</string>
-    <string name="Collect_1_000_snowflakes_">"雪花を1000個収集する"</string>
-    <string name="Collect_5_000_snowflakes_">"雪花を5000個収集する"</string>
-    <string name="Collect_10_000_snowflakes_">"雪花を1万個収集する"</string>
-    <string name="Show_All">"すべて表示する"</string>
+    <string name="Collect_1_000_snowflakes_">"雪花を1000個集める"</string>
+    <string name="Collect_5_000_snowflakes_">"雪花を5000個集める"</string>
+    <string name="Collect_10_000_snowflakes_">"雪花を1万個集める"</string>
+    <string name="Show_All">"すべて表示"</string>
 
-    <string name="SET_PERMISSIONS">"権限を設定する"</string>
-    <string name="Start_Clan_War">"クラン戦争を開始する"</string>
-    <string name="Min_Level">"最低レベル"</string>
+    <string name="SET_PERMISSIONS">"権限を設定"</string>
+    <string name="Start_Clan_War">"クラン戦争を開始"</string>
+    <string name="Min_Level">"必要レベル"</string>
     <string name="SAVE">"保存"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"マッチに参加できる最低レベル条件に達していません。"</string>
     <string name="Insufficient_Permission">"権限不足"</string>
     <string name="DOMINATION">"支配戦"</string>
     <string name="DOM_Domination">"支配戦支配"</string>
-    <string name="DOM_Hat_Trick">"支配戦　ハットトリック"</string>
-    <string name="Win_by_50_points_in_a_DOM_game_">"支配戦ゲームで50ポイントで勝つ"</string>
-    <string name="Score_33_points_in_a_single_DOM_game_">"支配戦ゲームで33ポイントで勝つ"</string>
-    <string name="Win_a_Domination_Game">"支配戦ゲームに勝つ"</string>
-    <string name="Select_Team">"チームを選択する"</string>
-    <string name="MANAGE_TEAMS">"チーム管理"</string>
-    <string name="CLAN_INVITE">"クランに招待する"</string>
-    <string name="TEAM_INVITE">"チームに招待する"</string>
-    <string name="Team_Size">"チームの大きさ"</string>
-    <string name="Team_Name">"チームの名前"</string>
-    <string name="CREATE_TEAM">"チームを作る"</string>
-    <string name="Solo">"一人で"</string>
-    <string name="Teams">"チームで"</string>
+    <string name="DOM_Hat_Trick">"支配戦・ハットトリック"</string>
+    <string name="Win_by_50_points_in_a_DOM_game_">"【支配戦】モード：50ポイントで勝つ"</string>
+    <string name="Score_33_points_in_a_single_DOM_game_">"【支配戦】モード：1回のプレイで33ポイントで勝つ"</string>
+    <string name="Win_a_Domination_Game">"支配戦ゲームで勝つ"</string>
+    <string name="Select_Team">"チームを選択"</string>
+    <string name="MANAGE_TEAMS">"チームを管理"</string>
+    <string name="CLAN_INVITE">"クランに招待"</string>
+    <string name="TEAM_INVITE">"チームに招待"</string>
+    <string name="Team_Size">"チームサイズ"</string>
+    <string name="Team_Name">"チーム名"</string>
+    <string name="CREATE_TEAM">"チームを作成"</string>
+    <string name="Solo">"一人"</string>
+    <string name="Teams">"チーム"</string>
     <string name="Team">"チーム"</string>
-    <string name="Specify_Account_ID">"アカウントIDを指定。"</string>
-    <string name="Team_Created_">"チームを作成しました"</string>
+    <string name="Specify_Account_ID">"アカウントIDを入力"</string>
+    <string name="Team_Created_">"チーム作成完了"</string>
     <string name="Team_Arena">"チームアリーナ"</string>
     <string name="No_Teams">"チームがありません。"</string>
-    <string name="team_arena_info">"作ったチームでは無料でメンバーを招待、また削除できます。アリーナゲームも無料です。一度設定した名前は変えられませんので、注意してください。"</string>
+    <string name="team_arena_info">"作成したチームでは無料でメンバーを招待、また削除できます。アリーナゲームも無料です。一度設定した名前は変えられませんので、注意してください。"</string>
 
 
-    <string name="Invited">"招待完了"</string>
-    <string name="Invitation_Sent">"招待メッセージを送りました。"</string>
-    <string name="REPORT">"報告する"</string>
+    <string name="Invited">"招待済"</string>
+    <string name="Invitation_Sent">"招待メッセージ送信済み"</string>
+    <string name="REPORT">"報告"</string>
     <string name="Reported">"報告完了"</string>
     <string name="Threats">"脅威"</string>
     <string name="Spam">"スパム"</string>
     <string name="Other">"その他の内容"</string>
-    <string name="Leave_Team">"このチームから退出する"</string>
+    <string name="Leave_Team">"チームから退室"</string>
 
-    <string name="Remove_Player">"このプレイヤーを削除する"</string>
+    <string name="Remove_Player">"プレイヤーを削除"</string>
     <string name="Reject_Invitation">"招待を拒否する"</string>
-    <string name="Leave_Game">"ゲームから退出する"</string>
-    <string name="Remove_Friend">"フレンドから削除する"</string>
-    <string name="Remove_Clan_Member">"クランメンバーから削除する"</string>
+    <string name="Leave_Game">"ゲームから退室"</string>
+    <string name="Remove_Friend">"フレンドリストから削除"</string>
+    <string name="Remove_Clan_Member">"メンバーをクランから削除"</string>
     <string name="Flag_lobby_as_inappropriate">"不適切なフラグロビー"</string>
-    <string name="Promote_Clan_Member">"このクランメンバーの等級を上げる。"</string>
-    <string name="Leave_Clan">"このクランから脱退する"</string>
-    <string name="Candy_Hoarder">"飴貯蓄の達人"</string>
+    <string name="Promote_Clan_Member">"クランメンバーの等級を上げる"</string>
+    <string name="Leave_Clan">"クランから脱退"</string>
+    <string name="Candy_Hoarder">"飴ため込み屋"</string>
     <string name="Candy_Collector">"飴収集家"</string>
     <string name="Candy_Mogul">"飴をもぐもぐ"</string>
-    <string name="Collect_1_000_candies_">"飴を1000個収集する"</string>
-    <string name="Collect_5_000_candies_">"飴を5000個収集する"</string>
-    <string name="Collect_10_000_candies_">"飴を1万個収集する"</string>
-    <string name="candies_">"飴。"</string>
+    <string name="Collect_1_000_candies_">"飴を1000個集める"</string>
+    <string name="Collect_5_000_candies_">"飴を5000個集める"</string>
+    <string name="Collect_10_000_candies_">"飴を1万個集める"</string>
+    <string name="candies_">"個の飴"</string>
     <string name="Language">"言語"</string>
     <string name="Control_Opacity_">"コントローラーの不透明度："</string>
-    <string name="You_dont_own_the_team_">"あなたはこのチームに入っていません。"</string>
+    <string name="You_dont_own_the_team_">"チームに入っていません。"</string>
     <string name="User_has_already_been_invited_">"そのユーザーは既に招待されています。"</string>
-    <string name="Maximum_players_allowed_on_the_team_">"このチームの最大メンバーの数："</string>
+    <string name="Maximum_players_allowed_on_the_team_">"このチームの最大プレイヤーの数："</string>
     <string name="Name_is_already_in_use_">"この名前は既に使用されています"</string>
     <string name="User_is_not_in_the_team_">"ユーザーはチームにいません。"</string>
     <string name="You_are_not_invited_to_team_">"あなたはチームから招待されていません。"</string>
     <string name="Team_does_not_exist_">"チームが存在していません。"</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"別の報告を送信する前にしばらくお待ちください。"</string>
-    <string name="Collect_1_000_beads_">"ビーズを1000個収集する"</string>
-    <string name="Collect_5_000_beads_">"ビーズを5000個収集する"</string>
-    <string name="Collect_10_000_beads_">"ビーズを1万個収集する"</string>
+    <string name="Collect_1_000_beads_">"ビーズを1000個集める"</string>
+    <string name="Collect_5_000_beads_">"ビーズを5000個集める"</string>
+    <string name="Collect_10_000_beads_">"ビーズを1万個集める"</string>
     <string name="Bead_Collector">"ビーズ収集家"</string>
-    <string name="Bead_Hoarder">"ビーズ貯蓄の達人"</string>
+    <string name="Bead_Hoarder">"ビーズため込み屋"</string>
     <string name="Bead_Mogul">"ビーズをもぐもぐ"</string>
-    <string name="beads_">"ビーズ"</string>
+    <string name="beads_">"個のビーズ"</string>
 
-    <string name="Rejoin_Game">"ゲームに再参加する"</string>
+    <string name="Rejoin_Game">"ゲームに再参加"</string>
     <string name="PRIZES">"賞品"</string>
 
-    <string name="Enable_Custom_Skin">"カスタムスキンを購入する"</string>
-    <string name="Use_Custom_Skin">"カスタムスキン\nを使用する"</string>
-    <string name="custom_skin_description">"この機能を使用すると、指定した画像をスキンとして使用することができます。この機能で変えたスキンはあなたしか見れません。"</string>
+    <string name="Enable_Custom_Skin">"カスタムスキンを有効"</string>
+    <string name="Use_Custom_Skin">"カスタムスキン\nを使う"</string>
+    <string name="custom_skin_description">"この機能を使うと、ギャラリーから選択した画像をスキンとして使うことができます。この機能で使ったスキンはアップロードするまで他のプレイヤーに表示されません。"</string>
     <string name="CUSTOM_SKIN">"カスタムスキン"</string>
 
-    <string name="Facebook_Profile">"Facebookのプロフィール"</string>
+    <string name="Facebook_Profile">"Facebookプロフィール"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Facebookにログインする必要があります。"</string>
-    <string name="copy_details">"ディテールをコピーする"</string>
-    <string name="copied_error_details_to_clipboard">"ディテールコピー中にエラーが発生しました。"</string>
+    <string name="copy_details">"詳細をコピー"</string>
+    <string name="copied_error_details_to_clipboard">"エラーの詳細がクリップボードにコピーされました。"</string>
 
     <string name="No_file_browser_installed_">"ファイルブラウザがインストールされていません！"</string>
-    <string name="Choose_File">"ファイルを選ぶ"</string>
+    <string name="Choose_File">"ファイルを選択"</string>
     <string name="Google_Profile">"Googleプロフィール"</string>
     <string name="You_must_be_signed_in_to_Google_">"Googleにログインする必要があります。"</string>
 
 
     <string name="MAYHEM">"アイテムモード"</string>
-    <string name="eggs_">"卵"</string>
+    <string name="eggs_">"個の卵"</string>
     <string name="Egg_Collector">"卵収集家"</string>
-    <string name="Egg_Hoarder">"卵貯蓄の達人"</string>
+    <string name="Egg_Hoarder">"卵貯ため込み屋"</string>
     <string name="Egg_Mogul">"卵をもぐもぐ"</string>
-    <string name="Collect_1_000_eggs_">"卵を1000個収集する"</string>
-    <string name="Collect_5_000_eggs_">"卵を5000個収集する"</string>
-    <string name="Collect_10_000_eggs_">"卵を1万個収集する"</string>
-    <string name="HISTORY">"履歴 : "</string>
-    <string name="CLAN_HISTORY">"クランの履歴 : "</string>
+    <string name="Collect_1_000_eggs_">"卵を1000個集める"</string>
+    <string name="Collect_5_000_eggs_">"卵を5000個集める"</string>
+    <string name="Collect_10_000_eggs_">"卵を1万個集める"</string>
+    <string name="HISTORY">"履歴"</string>
+    <string name="CLAN_HISTORY">"クランの履歴"</string>
 
 
     <string name="Love_Nebulous_">"ネビュラスをお楽しみいただけましたか？"</string>
     <string name="Please_support_Nebulous_by_rating_it_">"是非ネビュラスに高評価をお願いします"</string>
     <string name="MAYHEM_MODE">"アイテムモード"</string>
-    <string name="Times_Teleported_">"テレポートした回数："</string>
-    <string name="Powerups_Used_">"アイテムを使った回数："</string>
+    <string name="Times_Teleported_">"テレポートした回数:"</string>
+    <string name="Powerups_Used_">"投げたアイテムの数:"</string>
     <string name="Power_Hungry">"パワーハングリー"</string>
     <string name="Over_9000">"9000以上"</string>
     <string name="Omnipresence">"どこにもあり"</string>
 
-    <string name="Shoot_9001_Powerups">"9001個のアイテムを撃つ"</string>
+    <string name="Shoot_9001_Powerups">"アイテムを9001個を投げる"</string>
     <string name="Teleport_100_Times">"100回テレポートする"</string>
-    <string name="Shoot_20_Powerups_Without_Restarting">"1回のプレイで20個のアイテムを使用"</string>
-    <string name="Request_Timed_Out">"タイムアウトを要請"</string>
-    <string name="You_Are_Spectating_">"あなたは観戦中です。"</string>
+    <string name="Shoot_20_Powerups_Without_Restarting">"1回のプレイでアイテムを20個投げる"</string>
+    <string name="Request_Timed_Out">"リクエストがタイムアウトされました"</string>
+    <string name="You_Are_Spectating_">"観戦中です。"</string>
     <string name="Account_In_Use_">"アカウントが使用されています！"</string>
     <string name="Cannot_Join_Arena_">"アリーナに参加できませんでした"</string>
-    <string name="Signing_out_will_disconnect_you_from_the_current_game">"サインアウトすると部屋から切断されます！"</string>
-    <string name="raindrops_">"雨粒"</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"ログアウトすると部屋から切断されます！"</string>
+    <string name="raindrops_">"個の雨粒"</string>
     <string name="Raindrop_Collector">"雨滴収集家"</string>
-    <string name="Raindrop_Hoarder">"雨滴貯蓄の達人"</string>
+    <string name="Raindrop_Hoarder">"雨滴ため込み屋"</string>
     <string name="Raindrop_Mogul">"雨滴をもぐもぐ"</string>
-    <string name="Collect_1_000_raindrops_">"雨粒を1000個収集する"</string>
-    <string name="Collect_5_000_raindrops_">"雨粒を5000個収集する"</string>
-    <string name="Collect_10_000_raindrops_">"雨粒を1万個収集する"</string>
-    <string name="Copy_Message">"メッセージをコピーする"</string>
-    <string name="Copied_to_clipboard_">"コピーされました。"</string>
-    <string name="COPY_NAME">"名前をコピーする"</string>
-    <string name="Challenge_Sent">"チャレンジを送信しました。"</string>
+    <string name="Collect_1_000_raindrops_">"雨粒を1000個集める"</string>
+    <string name="Collect_5_000_raindrops_">"雨粒を5000個集める"</string>
+    <string name="Collect_10_000_raindrops_">"雨粒を1万個集める"</string>
+    <string name="Copy_Message">"メッセージをコピー"</string>
+    <string name="Copied_to_clipboard_">"クリップボードにコピーされました。"</string>
+    <string name="COPY_NAME">"名前をコピー"</string>
+    <string name="Challenge_Sent">"チャレンジ送信済み"</string>
     <string name="_1v1_Challenge_">"1ｖ1　チャレンジ！"</string>
-    <string name="__has_challenged_you_to_a_1v1_match_">"%s があなたにチャレンジしました！"</string>
+    <string name="__has_challenged_you_to_a_1v1_match_">"チャレンジに招待受信！ (%s から)"</string>
     <string name="Challenge_Expired">"チャレンジが取り消されました。"</string>
-    <string name="Enable_Challenges">"チャレンジを有効にする"</string>
+    <string name="Enable_Challenges">"チャレンジをオン"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"現在行わているチャレンジの終了を待っています。"</string>
     <string name="CHALLENGE_OPTIONS">"チャレンジのオプション"</string>
-    <string name="Accept">"許可する"</string>
-    <string name="Decline">"拒否する"</string>
+    <string name="Accept">"許可"</string>
+    <string name="Decline">"拒否"</string>
     <string name="Challenge_Declined">"チャレンジが拒否されました"</string>
-    <string name="Spectators_">"観戦者数："</string>
+    <string name="Spectators_">"観戦者数：:"</string>
     <string name="Nebula_Collector">"星雲収集家"</string>
-    <string name="Nebula_Hoarder">"星雲貯蓄の達人"</string>
+    <string name="Nebula_Hoarder">"星雲ため込み屋"</string>
     <string name="Nebula_Mogul">"星雲をもぐもぐ"</string>
-    <string name="Collect_1_000_nebulas_">"星雲を1000個収集します。"</string>
-    <string name="Collect_5_000_nebulas_">"星雲を5000個収集します。"</string>
-    <string name="Collect_10_000_nebulas_">"星雲を1万個収集します。"</string>
-    <string name="nebulas_">"星雲"</string>
+    <string name="Collect_1_000_nebulas_">"星雲を1000個集める"</string>
+    <string name="Collect_5_000_nebulas_">"星雲を5000個集める"</string>
+    <string name="Collect_10_000_nebulas_">"星雲を1万個集める"</string>
+    <string name="nebulas_">"個の星雲"</string>
     <string name="Incompatible_versions_">"このバージョンでは利用できません"</string>
-    <string name="Update_Available_">"利用可能なバージョンです"</string>
+    <string name="Update_Available_">"利用可能な更新！"</string>
     <string name="VIEW_INVITES">"招待を表示"</string>
     <string name="CLAN_INVITES">"クラン招待"</string>
     <string name="Cancel_Invitation">"招待を取り消す"</string>
     <string name="DOWNLOAD">"ダウンロード"</string>
     <string name="REJECT_ALL_FRIEND_INVITATIONS_">"フレンドリクエストを全て拒否？"</string>
-    <string name="suns_">"太陽。"</string>
+    <string name="suns_">"個の太陽"</string>
     <string name="Sun_Collector">"太陽コレクター"</string>
-    <string name="Sun_Hoarder">"太陽を貯め込んでいる人"</string>
+    <string name="Sun_Hoarder">"太陽をため込み屋"</string>
     <string name="Sun_Mogul">"太陽モーグル"</string>
-    <string name="Collect_1_000_suns_">"太陽を1000個収集します。"</string>
-    <string name="Collect_5_000_suns_">"太陽を5000個収集します。"</string>
-    <string name="Collect_10_000_suns_">"太陽を1万個収集します。"</string>
-    <string name="Reward_Videos_">"ビデオ報酬"</string>
+    <string name="Collect_1_000_suns_">"太陽を1000個集める"</string>
+    <string name="Collect_5_000_suns_">"太陽を5000個集める"</string>
+    <string name="Collect_10_000_suns_">"太陽を1万個集める"</string>
+    <string name="Reward_Videos_">"報酬動画！"</string>
     <string name="Free_Plasma_">"無料プラズマ！"</string>
-    <string name="moons_">"衛星。"</string>
-    <string name="Moon_Collector">"ムーン・コレクター"</string>
-    <string name="Moon_Hoarder">"月ため込んでいる人"</string>
-    <string name="Moon_Mogul">"月のモーグル"</string>
-    <string name="Collect_1_000_moons_">"衛星を1000個収集します。"</string>
-    <string name="Collect_5_000_moons_">"衛星を5000個収集します。"</string>
-    <string name="Collect_10_000_moons_">"衛星を1万個収集します。"</string>
+    <string name="moons_">"個の月"</string>
+    <string name="Moon_Collector">"月収集家"</string>
+    <string name="Moon_Hoarder">"月ため込み屋"</string>
+    <string name="Moon_Mogul">"月をもぐもぐ"</string>
+    <string name="Collect_1_000_moons_">"月を1000個集める"</string>
+    <string name="Collect_5_000_moons_">"衛星を5000個集める"</string>
+    <string name="Collect_10_000_moons_">"衛星を1万個集める"</string>
     <string name="BLUETOOTH">"ブルートゥース"</string>
     <string name="HOST">"ホスト"</string>
     <string name="This_device_does_not_support_bluetooth_">"このデバイスはBluetoothを利用できません。"</string>
@@ -704,45 +704,45 @@
     <string name="none">"なし"</string>
     <string name="INVALID_TOKEN">"証明できません！"</string>
     <string name="banned_until">"日付まで禁止されました"</string>
-    <string name="Note_Collector">"ノートコレクター"</string>
-    <string name="Note_Hoarder">"ノートをため込んでいる人に注意してください。"</string>
-    <string name="Note_Mogul">"ノートモーグル"</string>
-    <string name="Collect_1_000_notes_">"ノートを1000個収集します。"</string>
-    <string name="Collect_5_000_notes_">"ノートを5000個収集します。"</string>
-    <string name="Collect_10_000_notes_">"ノートを1万個収集します。"</string>
-    <string name="notes_">"ノート。"</string>
+    <string name="Note_Collector">"ノート収集家"</string>
+    <string name="Note_Hoarder">"ノートをため込みや"</string>
+    <string name="Note_Mogul">"ノートをもぐもぐ"</string>
+    <string name="Collect_1_000_notes_">"ノートを1000個集める"</string>
+    <string name="Collect_5_000_notes_">"ノートを5000個集める"</string>
+    <string name="Collect_10_000_notes_">"ノートを1万個集める"</string>
+    <string name="notes_">"個のノート"</string>
     <string name="CLICK_CHEAT_DETECTED_">"クリックチートが検出されました！"</string>
-    <string name="Pumpkin_Hoarder">"カボチャため込んでいる人"</string>
-    <string name="Pumpkin_Mogul">"カボチャモーグル"</string>
-    <string name="Leaf_Mogul">"リーフモーグル"</string>
-    <string name="Collect_5000_pumpkins_">"カボチャを5000個収集する"</string>
-    <string name="Collect_10000_pumpkins_">"カボチャを1万個収集する"</string>
-    <string name="Collect_10000_leaves_">"葉を1万個収集する"</string>
+    <string name="Pumpkin_Hoarder">"カボチャため込み屋"</string>
+    <string name="Pumpkin_Mogul">"カボチャをもぐもぐ"</string>
+    <string name="Leaf_Mogul">"リーフをもぐもぐ"</string>
+    <string name="Collect_5000_pumpkins_">"カボチャを5000個集める"</string>
+    <string name="Collect_10000_pumpkins_">"カボチャを1万個集める"</string>
+    <string name="Collect_10000_leaves_">"葉を1万個集める"</string>
     <string name="Eject">"イジェクト"</string>
-    <string name="Eject_Skin">"粒スキン"</string>
-    <string name="Double_Plasma__">"ダブルプラズマ!!"</string>
-    <string name="Ends">"両端"</string>
+    <string name="Eject_Skin">"イジェクトスキン"</string>
+    <string name="Double_Plasma__">"x2 プラズマ!!"</string>
+    <string name="Ends">"終了:"</string>
     <string name="Select_Clan_Member">"クランメンバーを選択"</string>
     <string name="Inappropriate_Skin">"不適切なスキン"</string>
-    <string name="Approved">"承認されました"</string>
-    <string name="Rejected">"拒否されました"</string>
+    <string name="Approved">"承認済み"</string>
+    <string name="Rejected">"拒否済"</string>
     <string name="Refunded">"払い戻し"</string>
 
 
     <string name="contribution_warning">"プラズマを寄付してよろしいですか？返金はされません。"</string>
     <string name="Upload">"アップロード"</string>
-    <string name="upload_warning">"このスキンをアップロードしますか？他の人もスキンを見れるようになります、不適切なスキンは拒否され、返金はされません！"</string>
+    <string name="upload_warning">"このスキンをアップロードしますか？スキンは承認した後で他のプレイヤーに表示されます。不適切なスキンは拒否され、返金はされません！"</string>
 
     <string name="In_Review">"検討中"</string>
     <string name="Account_Uploads">"アカウントアップロード"</string>
     <string name="Clan_Uploads">"クランアップロード"</string>
     <string name="Empty">"空の"</string>
     <string name="Select">"選択"</string>
-    <string name="Current_Skin">"現在のスキン"</string>
+    <string name="Current_Skin">"現在スキン"</string>
     <string name="Status">"状態"</string>
     <string name="upload_size_failure">"容量が大きすぎるため、アップロードできませんでした。別の画像を使用してください"</string>
-    <string name="CONTRIBUTE_PLASMA">"プラズマを寄付する"</string>
-    <string name="Specify_Contribution_Amount">"貢献量を指定します"</string>
+    <string name="CONTRIBUTE_PLASMA">"プラズマを寄付"</string>
+    <string name="Specify_Contribution_Amount">"寄付量を入力"</string>
     <string name="Clan_Contribution">"クランに貢献"</string>
     <string name="FILTER">"フィルター"</string>
     <string name="List_Count_">"リスト数:"</string>
@@ -757,7 +757,7 @@
     <string name="UPLOAD_PREVIEW">"アップロードプレビュー"</string>
     <string name="Transparency">"透明"</string>
     <string name="upload_info">"より良い品質を使用することができます。"</string>
-    <string name="Compression_Quality_">"圧縮品質："</string>
+    <string name="Compression_Quality_">"圧縮品質:"</string>
     <string name="inapproriate_info">"不適切なスキンには、視認性の悪さ、センシティブ、フルボディ、麻薬、暴言、などが含まれます　"</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"このスキンをアップロードしてもよろしいですか？"</string>
     <string name="Grant_Permission">"グラント許可"</string>
@@ -765,10 +765,10 @@
     <string name="Nebulous_needs_Coarse_Location_permissions_to_find_nearby_Bluetooth_devices_">"Bluetoothに接続するには端末とBluetooth機器が近くにないといけません。"</string>
     <string name="FFA_ULTRA">"個人戦（ウルトラ）"</string>
     <string name="FFAU">"FFAU"</string>
-    <string name="_in_a_FFAU_Game">"個人戦（ウルトラ）ゲームで"</string>
+    <string name="_in_a_FFAU_Game">"（個人戦ウルトラ）"</string>
 
     <string name="BANNED_PLAYERS">"禁止したプレイヤー"</string>
-    <string name="MAIL">"郵便物"</string>
+    <string name="MAIL">"メール"</string>
     <string name="WRITE_MAIL">"メールを書く"</string>
     <string name="Days">"日々"</string>
     <string name="Message">"メッセージ"</string>
@@ -779,18 +779,18 @@
     <string name="Message_Sent_">"メッセージ送信済み！"</string>
     <string name="From">"から:"</string>
     <string name="Sent">"送信済み"</string>
-    <string name="REPLY">"応答"</string>
+    <string name="REPLY">"返信"</string>
     <string name="Delete_Message">"メッセージを削除"</string>
     <string name="BLOCK">"ブロック"</string>
     <string name="DELETE">"削除"</string>
     <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"注：あなたはフレンド申請を送信することによって、ブロックを解除することができます。"</string>
-    <string name="Select_Friend">"フレンドリストから選択"</string>
+    <string name="Select_Friend">"フレンドを選択"</string>
     <string name="Failed_to_send_mail_">"メールの送信に失敗"</string>
     <string name="In_Game_Mail">"ゲーム内メール"</string>
-    <string name="Nav_Buttons_">"ナビボタン位置:"</string>
+    <string name="Nav_Buttons_">"ナビボタンの位置:"</string>
     <string name="account_warning">"どんな事があってもアカウント情報を共有することはありません"</string>
     <string name="Clan_Hero">"クランヒーロー"</string>
-    <string name="Win_1000_Clan_Wars">"クラン戦争1000回勝利"</string>
+    <string name="Win_1000_Clan_Wars">"クラン戦争で1000回勝利"</string>
     <string name="NAME_COLOR">"ネームカラー"</string>
     <string name="name_color_instructions">"カラー変更したい文字を選択する。"</string>
     <string name="Cannot_change_this_character_">"この文字はカラー変更できません"</string>
@@ -819,7 +819,7 @@
     <string name="Registrants">"登録者数:"</string>
     <string name="Round_Of">"ラウンド"</string>
     <string name="Next_Tournament">"次のトーナメント"</string>
-    <string name="Plasma_Won">"プラズマウォン"</string>
+    <string name="Plasma_Won">"獲得したプラズマ"</string>
     <string name="Semi_Finals">"セミファイナル"</string>
     <string name="Quarter_Finals">"準々決勝"</string>
     <string name="Competing">"競合中"</string>
@@ -834,18 +834,18 @@
     <string name="youtube_prompt">"YouTubeチャンネルを見てみる？このチャンネルは、ネビュラスの開発元とは提携していません。"</string>
     <string name="Tournament_Matches_Won_">"勝ったトーナメント数:"</string>
     <string name="PAINT">"ペイント"</string>
-    <string name="BLOCKED_ACCOUNTS">"ブロックしたアカウント"</string>
+    <string name="BLOCKED_ACCOUNTS">"ブロックしたアカウントリスト"</string>
     <string name="UNBLOCK">"ブロック解除"</string>
     <string name="Emotes">"エモート"</string>
     <string name="Support">"サポート"</string>
-    <string name="Already_Blocked">"すでにブロックしています"</string>
+    <string name="Already_Blocked">"すでにブロックされています"</string>
     <string name="Cannot_block_more_than_x_accounts_">"以上ブロックすることはできません%dアカウントを。"</string>
-    <string name="This_is_you_">"これはあなたです。"</string>
+    <string name="This_is_you_">"自分です。"</string>
     <string name="Win_a_Paint_Game">"ペイントゲームに勝つ"</string>
     <string name="Whiteout">"ホワイトアウト"</string>
     <string name="Speed_Painter">"スピードペインタ"</string>
-    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"0スコアの相手にペイントゲームで勝ちます。"</string>
-    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"60秒以内にペイントゲームで勝ちます。"</string>
+    <string name="Win_a_Paint_game_with_all_opponents_having_0_score_">"【ペイント】モード：0スコアの相手に勝つ"</string>
+    <string name="Win_a_Paint_game_in_60_seconds_or_less_">"【ペイント】モード：60秒以内に勝つ"</string>
     <string name="Autoclick">"オートクリック"</string>
     <string name="Autoclick_24_Hours">"オートクリック（24時間）"</string>
     <string name="Autoclick_1_Hour">"オートクリック（1時間）"</string>
@@ -853,10 +853,10 @@
     <string name="Ultraclick_1_Hour">"ウルトラクリック（1時間）"</string>
     <string name="Ultraclick">"ウルトラクリック"</string>
     <string name="May_Reduce_Lag">"（ラグを減少させることができます）"</string>
-    <string name="Ultraclick_Permanent">"永久にウルトラクリック"</string>
-    <string name="Autoclick_Permanent">"永久にオートクリック"</string>
-    <string name="x3_XP_Permanent">"永久に経験値3倍"</string>
-    <string name="x2_XP_Permanent">"永久に経験値2倍"</string>
+    <string name="Ultraclick_Permanent">"ウルトラクリック（永久）"</string>
+    <string name="Autoclick_Permanent">"オートクリック（永久）"</string>
+    <string name="x3_XP_Permanent">"経験値3倍（永久）"</string>
+    <string name="x2_XP_Permanent">"経験値2倍（永久）"</string>
     <string name="Permanent">"恒久的な"</string>
     <string name="Apply_To_Account">"アカウントに適用"</string>
     <string name="Spin_">"スピン"</string>
@@ -867,16 +867,16 @@
     <string name="NOW">"現在"</string>
     <string name="Team_Deathmatch_Domination">"チームデスマッチ支配"</string>
     <string name="We_Will_Survive">"生き残る"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"チームデスマッチゲームで5選手以上でで勝利。"</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"【チームデスマッチ】モード：5選手以上でで勝利。"</string>
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"生き残りつつチームデスマッチゲームに敗北する。"</string>
     <string name="Win_a_Team_Deathmatch_Game">"チームデスマッチゲームに勝ちます"</string>
     <string name="TEAM_DEATHMATCH">"チームデスマッチ"</string>
     <string name="Speed_Click_Toggle">"小さい粒噴射ボタンを押してオートクリックを解除"</string>
     <string name="MOD">"管理者"</string>
     <string name="FAQ">よくある質問</string>
-    <string name="BUY_EXTRA_SPINS">ルーレットを購入する</string>
+    <string name="BUY_EXTRA_SPINS">もっとスピンを購入</string>
     <string name="Spins_Remaining">残りのスピン</string>
-    <string name="One_Spin">1回のスピン（1回）</string>
+    <string name="One_Spin">1回のスピン（1）</string>
     <string name="Bundle_of_Spins">ルーレット増量（10）</string>
     <string name="Plethora_of_Spins">大量のルーレット（50）</string>
     <string name="SIGN_OUT_ALL_DEVICES">全端末からアカウントをログアウトさせる</string>
@@ -901,27 +901,27 @@
     <string name="Delete_ALL_Messages_">すべてのメッセージを削除！</string>
     <string name="SAVE_PROFILE">プロフィールを保存</string>
     <string name="Move">移動</string>
-    <string name="New_Position">新しいポジション</string>
+    <string name="New_Position">新しい位置</string>
     <string name="ALLIANCES">連携</string>
     <string name="ENEMIES">敵</string>
     <string name="NEW_ALLIANCE">新同盟</string>
     <string name="NEW_ENEMY">新しい敵</string>
     <string name="CLAN_RELATIONS">クラン関係</string>
     <string name="Clan_XP_Boost">クラン経験値のブースト</string>
-    <string name="x3_Clan_XP_7_days">クラン経験値3倍経験7日間</string>
-    <string name="x3_Clan_XP_1_Day">クラン経験値3倍1日間</string>
-    <string name="x2_Clan_XP_1_Day">クラン経験値2倍1日間</string>
+    <string name="x3_Clan_XP_7_days">クラン経験値3倍経験（7日間）</string>
+    <string name="x3_Clan_XP_1_Day">クラン経験値3倍（1日間）</string>
+    <string name="x2_Clan_XP_1_Day">クラン経験値2倍（1日間）</string>
     <string name="Pets">ペット</string>
     <string name="Pet">ペット</string>
     <string name="You_can_purchase_this_pet_for">このペットは次の価格で購入できます:</string>
-    <string name="gift_to_friend">フレンドへの贈り物</string>
+    <string name="gift_to_friend">フレンドへのギフト</string>
     <string name="gift_purchase_warning">この購入を友人に贈ることを選択したため、この購入は受けられません。</string>
-    <string name="x2_Clan_XP_7_Days">クラン経験値2倍7日</string>
+    <string name="x2_Clan_XP_7_Days">クラン経験値2倍（7日間）</string>
     <string name="RECEIVED">受信済</string>
     <string name="SENT">送信済</string>
-    <string name="Enable_Invites">招待を有効</string>
-    <string name="Game_Invitation">ゲームの招待</string>
-    <string name="__has_invited_you_to_join_their_game_">%s あなたが参加できるように招待が送られました</string>
+    <string name="Enable_Invites">招待をオン</string>
+    <string name="Game_Invitation">ゲーム内招待</string>
+    <string name="__has_invited_you_to_join_their_game_">%s のルームでプレイする招待受信！</string>
     <string name="Invitation_declined_">招待が拒否されました！</string>
     <string name="Invitation_accepted_">招待が受け入れられました！</string>
     <string name="Invitation_expired_">招待が切れました！</string>
@@ -950,7 +950,7 @@
     <string name="HAPPY_BIRTHDAY_">ネビュラス誕生日</string>
     <string name="Years">年</string>
     <string name="Friend_Added_">フレンド追加済み！</string>
-    <string name="_in_a_16x_Split_Game">16x スプリットで</string>
+    <string name="_in_a_16x_Split_Game">（16x スプリット）</string>
     <string name="Rules">ルール</string>
     <string name="Blob_Chat_Bubbles">ブロブチャットバブル</string>
     <string name="CHRISTMAS_ADVENT_SKINS">クリスマスアドベンチャー</string>
@@ -988,14 +988,14 @@
     <string name="MARK_UNREAD">未読にする</string>
     <string name="ROYALE_DUO">ロイヤルデュオ</string>
     <string name="Choose_Partner">パートナーを選ぶ</string>
-    <string name="REMOVE_FRIEND">フレンドを削除</string>
+    <string name="REMOVE_FRIEND">フレンドリストから削除</string>
     <string name="Creator">作成者:</string>
     <string name="PROFILE_COLOR">プロフィールカラー</string>
-    <string name="Enable_Colors">カラーを有効にする</string>
+    <string name="Enable_Colors">カラーを有効</string>
     <string name="Particles">パーティクル</string>
     <string name="Clan_Particle_Uploads">クランパーティクルアップロード</string>
     <string name="Particle_Uploads">パーティクルアップロード</string>
-    <string name="Blob_Outline">枠の表示</string>
+    <string name="Blob_Outline">ブロブのボーダー</string>
     <string name="Game_Border">ゲームボーダー</string>
     <string name="Select_some_text_first">最初にテキストを選択</string>
     <string name="Save_the_profile_first">最初にプロファイルを保存する</string>
@@ -1056,7 +1056,7 @@
     <string name="This_cannot_be_used_in_FFA_Classic_">このアイテムは『個人戦（クラシック）』で使うことができません。</string>
     <string name="ENEMY">敵</string>
     <string name="ALLY">ALLY</string>
-    <string name="Rename">名前を変更する</string>
+    <string name="Rename">名前を変更</string>
     <string name="Set_friendly_name_">フレンドリーネームを設定してください。</string>
     <string name="Leave_blank_for_none_">空欄のままにすると、デフォルトになります。</string>
     <string name="Vote_Kick">プレイヤーをキックする</string>
@@ -1127,7 +1127,7 @@
     <string name="Joined">参加済み</string>
     <string name="Requests">リクエスト</string>
     <string name="Invites">招待</string>
-    <string name="Show_Spectator_Count">ゲーム内観戦者数を表示</string>
+    <string name="Show_Spectator_Count">ゲーム内観戦者数を表示（左側に）</string>
     <string name="TRY_IT_">スキンを試す！</string>
     <string name="You_need_to_buy_a_pack_to_use_this_">You need to buy a pack to use this.</string>
     <string name="GET_PACK">パックを購入</string>
@@ -1217,7 +1217,7 @@
     <string name="CHAMPION">チャンピオン</string>
     <string name="DASH">ダッシュ</string>
     <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
-    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">トリックモードで1万トリックを稼ぐ</string>
+    <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">【トリックモード】モード：1万トリックを稼ぐ</string>
     <string name="Tricky">トリッキ</string>
     <string name="SUPPORTER">VIP</string>
     <string name="CONQUEROR">コンケラー</string>

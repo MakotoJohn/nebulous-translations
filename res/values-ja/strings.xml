@@ -1136,12 +1136,22 @@
     <string name="DARK_MATTER">ダークマター</string>
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
     <string name="Enable_Profile_Colors">プロフィールカラーを有効にする</string>
+    <string namw="mother_cell" translatable="true">マザーセル</string>
+    <string name="shrink" translatable="true">シュリンク</string>
+    <string name="collect_all" translatable="true">すべて集め</string>
+    <string name="magic_blob" translatable="true">スーパーブロブ</string>
+    <string name="ice_split" translatable="true">アイス・スプリット</string>
+    <string name="circle" translatable="true">丸いマップ</string>
+    <string name="mega_pop" translatable="true">メガポップ</string>
+    <string name="no_virus" translatable="true">ホールなし</string>
+    <string name="plasma_hunt" translatable="true">プラズマハンター</string>
+    <string name="speed" translatable="true">スピード</string>
     <string name="Session_Stats">このゲームの統計</string>
     <string name="Time_">残り時間:</string>
     <string name="Show_Session_Stats">前回のゲームの統計を表示</string>
     <string name="VALENTINES_DAY">"バレンタインデー"</string>
     <string name="Giveaways_">抽選！</string>
-    <string name="Max_XP_Chain_">Max XP Chain:</string>
+    <string name="Max_XP_Chain_">最大経験値チェーン:</string>
     <string name="POSITION_CANCEL_BUTTON">POSITION CANCEL BUTTON</string>
     <string name="INVISIBILITY">INVISIBILITY</string>
     <string name="Set_Skin">スキンを設定する</string>
@@ -1163,7 +1173,7 @@
     <string name="voice_chat_prompt">Content rating of the app may change with voice chat enabled. For best audio use a headset.</string>
     <string name="Only_leader_can_answer_requests_">リーダーのみが要請に応答できます。</string>
     <string name="Sent_request_not_invited_">リクエスト送信済み（未招待）。</string>
-    <string name="REMOVE_SKIN_FROM_COMMUNITY_">スキンをコミュニティから削除！</string>
+    <string name="REMOVE_SKIN_FROM_COMMUNITY_">コミュニティから削除！</string>
     <string name="This_cannot_be_undone_">これは取り消せません！</string>
     <string name="watch_a_video_to_get_a_temporary_boost_for_x_life_">Watch a video to get a temporary boost for %d lives!</string>
     <string name="WATCH_VIDEO_">動画を見る！</string>
@@ -1174,30 +1184,30 @@
     <string name="Specify_amount_">値を入力してください:</string>
     <string name="Specify_amount_again_to_confirm_">値を再入力して確認してください:</string>
     <string name="Amounts_did_not_match_">値が一致しません！</string>
-    <string name="RECEIVE_PLASMA">プラズマを受け取る</string>
+    <string name="RECEIVE_PLASMA">プラズマ受け取り</string>
     <string name="MULTIBLOB">マルチブロブ</string>
     <string name="Play_Nebulous_For_1_Year_">1年間ネビュラスをプレイしました！</string>
     <string name="Play_Nebulous_For_X_Years_">%d年間ネビュラスをプレイしました！</string>
     <string name="Starting___">開始中…</string>
     <string name="Tournament_Starting">トーナメント開始中</string>
-    <string name="Max_Tilt_Angle_3D_">Max Tilt Angle 3D:</string>
+    <string name="Max_Tilt_Angle_3D_">3Dティルトの最大角度:</string>
     <string name="Mode_3D">3Dモード</string>
     <string name="Names_Below_Blobs">ブロブの下にプレイヤー名</string>
     <string name="Name_Scale_">"プレイヤー名スケール:"</string>
     <string name="Button_3D">3Dボタン</string>
-    <string name="Hide_Button_">ボタンを非表示にする？</string>
-    <string name="Show_Boost_Button">ブーストボタンを表示にする</string>
+    <string name="Hide_Button_">ボタンを非表示？</string>
+    <string name="Show_Boost_Button">ブーストボタンを表示</string>
     <string name="Spectate_Killer_On_Death">自動でキラーを観戦</string>
-    <string name="Rainbow_Holes">Rainbow Holes</string>
-    <string name="LIFE_STEAL">LIFE STEAL</string>
+    <string name="Rainbow_Holes">レインボーホール</string>
+    <string name="LIFE_STEAL">ライブスティール</string>
     <string name="Kicked_From_Game_">キックされました！</string>
     <string name="Conquest">コンクエスト</string>
     <string name="Finish_the_last_mission_in_the_campaign_">キャンペーンでミッション 20 を完了する</string>
-    <string name="Collected_">を収集した数:</string>
+    <string name="Collected_">を集めた数:</string>
     <string name="Collisions_">への衝突数:</string>
     <string name="Absorbed_">を吸収した数:</string>
     <string name="team_warning">Teaming up with a player that is not on your team will result in a ban!</string>
-    <string name="Search_Filter">Search Filter</string>
+    <string name="Search_Filter">検索フィルター</string>
     <string name="Received_">を受け取った数:</string>
     <string name="Opponent_Rating_Limit_">Opponent Rating Limit:</string>
     <string name="TOGGLE_FAVORITE">お気に入りスキンを切り替える</string>
@@ -1215,8 +1225,9 @@
     <string name="Win_100_Tournaments">トーナメントで100回優勝する</string>
     <string name="HERO">ヒーロー</string>
     <string name="CHAMPION">チャンピオン</string>
+    <string name="sandbox_warning" translatable="true">『ホールなし』モードでは経験値とプラズマを獲得できません！</string>
     <string name="DASH">ダッシュ</string>
-    <string name="setting_changed">Settings updated. You may need to reconnect to the server for it to take effect.</string>
+    <string name="setting_changed">設定の更新完了！新しい設定を反映させるには、サーバーに再接続する必要があるかもしれません。</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">【トリックモード】モード：1万トリックを稼ぐ</string>
     <string name="Tricky">トリッキ</string>
     <string name="SUPPORTER">VIP</string>

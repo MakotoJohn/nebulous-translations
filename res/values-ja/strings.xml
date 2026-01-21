@@ -1199,7 +1199,7 @@
     <string name="Show_Boost_Button">ブーストボタンを表示</string>
     <string name="Spectate_Killer_On_Death">自動でキラーを観戦</string>
     <string name="Rainbow_Holes">レインボーホール</string>
-    <string name="LIFE_STEAL">ライブスティール</string>
+    <string name="LIFE_STEAL">ライフスティール</string>
     <string name="Kicked_From_Game_">キックされました！</string>
     <string name="Conquest">コンクエスト</string>
     <string name="Finish_the_last_mission_in_the_campaign_">キャンペーンでミッション 20 を完了する</string>

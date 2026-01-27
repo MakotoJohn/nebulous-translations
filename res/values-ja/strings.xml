@@ -491,7 +491,7 @@
 
     <string name="Validating">"認証中"</string>
 
-    <string name="Randomize">"ランダマイズ"</string>
+    <string name="Randomize">"ランダム"</string>
 
     <string name="Harassment">"虐め"</string>
 
@@ -954,7 +954,7 @@
     <string name="Rules">ルール</string>
     <string name="Blob_Chat_Bubbles">ブロブチャットバブル</string>
     <string name="CHRISTMAS_ADVENT_SKINS">クリスマスアドベンチャー</string>
-    <string name="You_cannot_open_this_present_yet_">まだこのプレゼントを開くことができません！</string>
+    <string name="You_cannot_open_this_present_yet_">このプレゼントはまだ開けられません！</string>
     <string name="Open_Present">プレゼントを開く</string>
     <string name="OPEN">開く</string>
     <string name="Halo">オーラ</string>

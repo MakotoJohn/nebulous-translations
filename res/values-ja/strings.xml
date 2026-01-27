@@ -272,7 +272,7 @@
     <string name="REMOVE_MEMBER">"メンバーを削除"</string>
 
 
-    <string name="CREATE_CLAN">"新しいクランを作成"</string>
+    <string name="CREATE_CLAN">"クランを作成"</string>
     <string name="MEMBER">"メンバー"</string>
     <string name="ADMIN">"アドミン"</string>
     <string name="LEADER">"リーダー"</string>
@@ -322,7 +322,7 @@
     <string name="Special_Thanks">"手伝ってくださった方々"</string>
     <string name="Many_Thanks_To_Every_Nebulous_Fan">"すべてのNebulousのファンの方々に感謝します"</string>
     <string name="Color_Blind">"色盲の人向け"</string>
-    <string name="Daily_Quest_Complete_">"今日のクエスト達成！"</string>
+    <string name="Daily_Quest_Complete_">"デイリークエスト達成！"</string>
     <string name="COPY_ID">"IDをコピー"</string>
     <string name="My_Account_ID">"このアカウントのID"</string>
 
@@ -373,7 +373,7 @@
     <string name="_5v5">"5V5"</string>
     <string name="_8v8">"8v8"</string>
     <string name="Top_Ranks">"上位ランキング"</string>
-    <string name="My_Ranks">"自分のランキング"</string>
+    <string name="My_Ranks">"マイランキング"</string>
     <string name="Player_XP">"プレイヤー経験値"</string>
 
     <string name="W_D_L">"勝・負・失"</string>
@@ -459,7 +459,7 @@
     <string name="Account_ID">"アカウントID:"</string>
     <string name="Player_Name">"プレイヤー名"</string>
 
-    <string name="Daily_Reward">"今日のログインボーナス"</string>
+    <string name="Daily_Reward">"デイリーログインボーナス"</string>
     <string name="Reset">"リセット"</string>
     <string name="Plasma">"プラズマ"</string>
     <string name="Plasma_Mogul">"プラズマをもぐもぐ"</string>
@@ -491,16 +491,16 @@
 
     <string name="Validating">"認証中"</string>
 
-    <string name="Randomize">"ランダムで"</string>
+    <string name="Randomize">"ランダマイズ"</string>
 
     <string name="Harassment">"虐め"</string>
 
     <string name="_2v2">"2対2"</string>
 
 
-    <string name="Standard">"一般"</string>
+    <string name="Standard">"デフォルト"</string>
     <string name="Achievement">"達成"</string>
-    <string name="Flag">"国旗"</string>
+    <string name="Flag">"フラグ"</string>
     <string name="Win_10_Clan_Wars">"10回クラン戦争で勝つ"</string>
     <string name="Win_100_Clan_Wars">"100回クラン戦争で勝つ"</string>
     <string name="Clan_Commander">"クラン司令官"</string>
@@ -513,7 +513,7 @@
     <string name="Present_Hoarder">"プレゼント箱ため込み屋"</string>
     <string name="Present_Mogul">"プレゼントをもぐもぐ"</string>
     <string name="Collect_1_000_presents_">"プレゼント箱を1000個集める"</string>
-    <string name="Collect_5_000_presents_">"のプレゼント箱を5000個集める"</string>
+    <string name="Collect_5_000_presents_">"プレゼント箱を5000個集める"</string>
     <string name="Collect_10_000_presents_">"プレゼント箱を1万個集める"</string>
     <string name="Loading_reward_video___">"広告動画読み込み中…"</string>
     <string name="Progress">"進行状況"</string>
@@ -581,7 +581,7 @@
     <string name="Control_Opacity_">"コントローラーの不透明度："</string>
     <string name="You_dont_own_the_team_">"チームに入っていません。"</string>
     <string name="User_has_already_been_invited_">"そのユーザーは既に招待されています。"</string>
-    <string name="Maximum_players_allowed_on_the_team_">"このチームの最大プレイヤーの数："</string>
+    <string name="Maximum_players_allowed_on_the_team_">"チームの最大プレイヤー数:"</string>
     <string name="Name_is_already_in_use_">"この名前は既に使用されています"</string>
     <string name="User_is_not_in_the_team_">"ユーザーはチームにいません。"</string>
     <string name="You_are_not_invited_to_team_">"あなたはチームから招待されていません。"</string>
@@ -656,14 +656,14 @@
     <string name="Challenge_Sent">"チャレンジ送信済み"</string>
     <string name="_1v1_Challenge_">"1ｖ1　チャレンジ！"</string>
     <string name="__has_challenged_you_to_a_1v1_match_">"チャレンジに招待受信！ (%s から)"</string>
-    <string name="Challenge_Expired">"チャレンジが取り消されました。"</string>
-    <string name="Enable_Challenges">"チャレンジをオン"</string>
+    <string name="Challenge_Expired">"チャレンジが期限切れになりました"</string>
+    <string name="Enable_Challenges">"チャレンジを有効"</string>
     <string name="Wait_for_the_current_challenge_to_expire_">"現在行わているチャレンジの終了を待っています。"</string>
     <string name="CHALLENGE_OPTIONS">"チャレンジのオプション"</string>
     <string name="Accept">"許可"</string>
     <string name="Decline">"拒否"</string>
     <string name="Challenge_Declined">"チャレンジが拒否されました"</string>
-    <string name="Spectators_">"観戦者数：:"</string>
+    <string name="Spectators_">"観戦者数:"</string>
     <string name="Nebula_Collector">"星雲収集家"</string>
     <string name="Nebula_Hoarder">"星雲ため込み屋"</string>
     <string name="Nebula_Mogul">"星雲をもぐもぐ"</string>
@@ -725,7 +725,7 @@
     <string name="Select_Clan_Member">"クランメンバーを選択"</string>
     <string name="Inappropriate_Skin">"不適切なスキン"</string>
     <string name="Approved">"承認済み"</string>
-    <string name="Rejected">"拒否済"</string>
+    <string name="Rejected">"拒否済み"</string>
     <string name="Refunded">"払い戻し"</string>
 
 
@@ -954,7 +954,7 @@
     <string name="Rules">ルール</string>
     <string name="Blob_Chat_Bubbles">ブロブチャットバブル</string>
     <string name="CHRISTMAS_ADVENT_SKINS">クリスマスアドベンチャー</string>
-    <string name="You_cannot_open_this_present_yet_">まだプレゼント箱は開封できません！</string>
+    <string name="You_cannot_open_this_present_yet_">まだこのプレゼントを開くことができません！</string>
     <string name="Open_Present">プレゼントを開く</string>
     <string name="OPEN">開く</string>
     <string name="Halo">オーラ</string>
@@ -978,8 +978,8 @@
     <string name="_1v1_Ultra">1対1ウルトラ</string>
     <string name="ArenaDescriptionUltra">勝者は%sプラズマ獲得できます</string>
     <string name="BANNED">禁止済</string>
-    <string name="CLAN_MEMBERS">クランメンバー</string>
-    <string name="CLAN_REQUESTS">クランに参加リクエスト</string>
+    <string name="CLAN_MEMBERS">クランメンバーリスト</string>
+    <string name="CLAN_REQUESTS">クラン参加リクエスト</string>
     <string name="Pet_1">ペット1</string>
     <string name="Pet_2">ペット2</string>
     <string name="Second_Pet">ペットを同時に2匹連れることができます！</string>

@@ -324,7 +324,7 @@
     <string name="Color_Blind">"色盲の人向け"</string>
     <string name="Daily_Quest_Complete_">"デイリークエスト達成！"</string>
     <string name="COPY_ID">"IDをコピー"</string>
-    <string name="My_Account_ID">"このアカウントのID"</string>
+    <string name="My_Account_ID">"マイアカウントID"</string>
 
 
     <string name="COMPLETE">"達成済み"</string>
@@ -365,7 +365,7 @@
     <string name="Score">"スコア"</string>
     <string name="Rating">"レート"</string>
     <string name="You_are_about_to_make_a_new_leader_">"。\nこのプレイヤーにリーダーを渡しますか？"</string>
-    <string name="XP">"XP"</string>
+    <string name="XP">"経験値"</string>
     <string name="High_Score">"高得点"</string>
 
 
@@ -792,7 +792,7 @@
     <string name="Clan_Hero">"クランヒーロー"</string>
     <string name="Win_1000_Clan_Wars">"クラン戦争で1000回勝利"</string>
     <string name="NAME_COLOR">"ネームカラー"</string>
-    <string name="name_color_instructions">"カラー変更したい文字を選択する。"</string>
+    <string name="name_color_instructions">"文字を選択してカラーを変更しよう。"</string>
     <string name="Cannot_change_this_character_">"この文字はカラー変更できません"</string>
     <string name="ZOMBIE_APOCALYPSE">"ゾンビの黙示録"</string>
     <string name="Survive_a_Zombie_Apocalypse">"ゾンビの黙示録で生き残る"</string>
